@@ -15,6 +15,9 @@ import re
 import pandas as pd
 import logging
 
+# print current directory
+print(os.getcwd())
+
 ### import GoogleSheet to read who has been scanned
 # inspired by: https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
 # use creds to create a client to interact with the Google Drive API
