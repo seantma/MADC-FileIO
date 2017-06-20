@@ -1,0 +1,200 @@
+bmh17umm01241_03276
+├── dicom
+│   ├── s00003
+│   ├── s00004
+│   ├── s00005
+│   ├── s00007
+│   ├── s00009
+│   ├── s00010
+│   ├── s00011
+│   ├── s00012
+│   ├── s00013
+│   ├── s00014
+│   ├── s00015
+│   └── transfer
+│       ├── s00004
+│       ├── s00010
+│       ├── s00011
+│       ├── s00012
+│       └── s00013
+├── DTI
+│   ├── dti
+│   │   └── run_01
+│   └── fieldmap
+├── func
+│   └── resting
+│       └── run_01
+├── raw
+└── spectro
+bmh17umm01337_03349
+├── anatomy
+│   └── t2flairsag_72
+│       └── dicom
+├── dicom
+│   ├── s00003
+│   ├── s00004
+│   ├── s00005
+│   ├── s00007
+│   ├── s00008
+│   ├── s00009
+│   ├── s00010
+│   └── s00011
+├── DTI
+│   ├── dti_96
+│   │   └── run_01
+│   ├── fieldmap
+│   └── fieldmaps
+│       └── FM_DTIMB
+│           └── dicom
+├── func
+│   ├── fieldmaps
+│   │   └── FM_resting
+│   │       └── dicom
+│   ├── resting
+│   │   └── run_01
+│   │       └── rtmp.mat
+│   ├── vasc_efgre3d_B1
+│   ├── vasc_efgre3d_B2
+│   └── vasc_efgre3d_B3
+└── raw
+    └── pfiles
+bmh17umm01342_03350
+├── anatomy
+│   └── t2flairsag_72
+│       └── dicom
+├── dicom
+│   ├── s00003
+│   ├── s00004
+│   ├── s00005
+│   ├── s00007
+│   ├── s00008
+│   ├── s00009
+│   ├── s00010
+│   ├── s00011
+│   └── s00013
+├── DTI
+│   ├── dti_96
+│   │   └── run_01
+│   └── fieldmap
+├── func
+│   ├── fieldmaps
+│   │   └── FM_resting
+│   │       └── dicom
+│   ├── resting
+│   │   └── run_01
+│   │       └── rtmp.mat
+│   ├── vasc_swi_B1
+│   ├── vasc_swi_B2
+│   └── vasc_swi_B3
+└── raw
+    └── pfiles
+bmh17umm01347_03358
+├── anatomy
+│   └── t2flairsag_96
+│       └── dicom
+├── dicom
+│   ├── s00003
+│   ├── s00004
+│   ├── s00005
+│   ├── s00007
+│   ├── s00008
+│   ├── s00009
+│   ├── s00010
+│   └── s00011
+├── DTI
+│   ├── dti_96_2000
+│   │   └── run_01
+│   ├── fieldmap
+│   └── SUID__subjid__ex3358_se12_05-17-2017_120814
+├── func
+│   ├── fieldmaps
+│   │   └── FM_resting
+│   │       └── dicom
+│   ├── resting
+│   │   └── run_01
+│   │       └── rtmp.mat
+│   ├── vasc_swi_B1
+│   ├── vasc_swi_B2
+│   └── vasc_swi_B3
+└── raw
+    └── pfiles
+hlp17umm01338_03383
+├── anatomy
+│   └── t2flairsag_92
+│       └── dicom
+├── dicom
+│   ├── s00003
+│   ├── s00004
+│   ├── s00005
+│   ├── s00007
+│   ├── s00008
+│   ├── s00009
+│   ├── s00010
+│   ├── s00011
+│   ├── s00012
+│   └── s00013
+├── DTI
+│   ├── dti_96_2000
+│   │   └── run_01
+│   └── fieldmap
+├── func
+│   ├── fieldmaps
+│   │   └── FM_resting
+│   │       └── dicom
+│   └── resting
+│       └── run_01
+│           └── rtmp.mat
+└── raw
+    └── pfiles
+hlp17umm01339_03384
+├── anatomy
+│   └── t2flairsag_72
+│       └── dicom
+├── dicom
+│   ├── s00003
+│   ├── s00004
+│   ├── s00005
+│   ├── s00007
+│   ├── s00008
+│   ├── s00009
+│   ├── s00010
+│   ├── s00011
+│   ├── s00012
+│   └── s00013
+├── DTI
+│   ├── dti_96_2000
+│   │   └── run_01
+│   └── fieldmap
+├── func
+│   ├── fieldmaps
+│   │   └── FM_resting
+│   │       └── dicom
+│   └── resting
+│       └── run_01
+│           └── rtmp.mat
+└── raw
+    └── pfiles
+hlp17umm01343_03378
+└── dicom
+    ├── s00003
+    ├── s00004
+    ├── s00005
+    ├── s00007
+    ├── s00008
+    ├── s00009
+    ├── s00010
+    └── s00011
+hlp17umm01355_03359
+└── dicom
+    ├── s00003
+    ├── s00004
+    ├── s00005
+    ├── s00007
+    ├── s00008
+    ├── s00009
+    ├── s00010
+    └── s00011
+Logs_rsync
+rsync_README.txt [error opening dir]
+
+188 directories
