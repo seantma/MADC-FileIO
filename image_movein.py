@@ -36,9 +36,24 @@ print(list_of_hashes)
 df = pd.DataFrame(sheet.get_all_records())
 df.head()
 
+# pull out fmri id
+df['fMRI_ID']
+
+# check local directories
+#?? should I just use rsync to match MADC's downloaded directory?
+##?? or should I just rely on `rsync` to check the diffferences between Singer & local folders
+
 ### rsync to fmri-Lab Singer to check if data is available
+# use `sh` that has rsync command to mirror
+# later can add send_email() if subject folder not yet uploaded and how many days have passed
+import sh
+
+send_email
+
 
 ### pull new T1/T2
+# either tar them or ...??
+
 
 ### batch lftp back to Box
 
