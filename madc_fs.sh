@@ -27,7 +27,8 @@ do
   # log start time
   THEDATE=`date`
 
-  echo ===============================
+  echo
+  echo ======================================
   echo Start $THEDATE
 
   # print subject being processed
@@ -36,10 +37,10 @@ do
   echo
 
   # start recon-all
-  # recon-all -all -qcache -parallel -openmp 6 \
-  # -i ${DATADIR}/${SUBJ}/${DCM} \
-  # -subjid ${SUBJ} \
-  # -hippocampal-subfields-T1
+  recon-all -all -qcache -parallel -openmp 6 \
+  -i ${DATADIR}/${SUBJ}/${DCM} \
+  -subjid ${SUBJ} \
+  -hippocampal-subfields-T1
 
   echo ${DATADIR}/${SUBJ}/${DCM}
 
