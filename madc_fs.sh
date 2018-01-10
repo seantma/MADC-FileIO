@@ -22,7 +22,7 @@ export SUBJECTS_DIR=/mnt/psych-bhampstelab/MADC/FSresults
 for SUBJ in ${subjIDs[@]}
 do
   cd ${DATADIR}/${SUBJ}
-  DCM=(find . -type f -name '*.1')
+  DCM=`find . -type f -name '*.1'`
 
   # log start time
   THEDATE=`date`
