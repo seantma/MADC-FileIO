@@ -21,7 +21,7 @@ export SUBJECTS_DIR=/mnt/psych-bhampstelab/MADC/FSresults
 # looping over subjects
 for SUBJ in ${subjIDs[@]}
 do
-  cd ${SUBJ}
+  cd ${DATADIR}/${SUBJ}
   DCM=(find . -type f -name '*.1')
 
   # log start time
