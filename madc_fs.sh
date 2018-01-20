@@ -29,7 +29,7 @@ hlp17umm01339_03384         # had errors on 1st recon-all
 # STAGE_hlp17umm01339_03384
 # STAGE_hlp17umm01343_03378
 # STAGE_hlp17umm01355_03359
-STAGE_hlp17umm01359_03418   # stuck at mris_fix_topology - #@# Fix Topology rh Mon Jan 15 06:30:04 EST 2018
+# STAGE_hlp17umm01359_03418   # stuck at mris_fix_topology - #@# Fix Topology rh Mon Jan 15 06:30:04 EST 2018
 # STAGE_hlp17umm01366_03424
 # STAGE_hlp17umm01367_03423
 )
@@ -46,9 +46,9 @@ for SUBJ in ${subjIDs[@]}
 do
   cd ${DATADIR}/${SUBJ}
   # Dicoms for original T1s
-  # DCM=`find . -type f -name '*.1'`
+  DCM=`find . -type f -name '*.1'`
   # Dicoms for STAGE processed T1s
-  DCM=`find . -type f -name '[0-9]*-1.dcm'`
+  # DCM=`find . -type f -name '[0-9]*-1.dcm'`
 
   # log start time
   THEDATE=`date`
@@ -66,7 +66,7 @@ do
 
   # start recon-all
   recon-all -all -qcache \
-  -parallel -openmp 4 \
+  -parallel -openmp 2 \
   -i ${DATADIR}/${SUBJ}/${DCM} \
   -subjid ${SUBJ} \
   -hippocampal-subfields-T1
