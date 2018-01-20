@@ -64,7 +64,7 @@ do
 
   # start recon-all
   # -parallel -openmp 6 \
-  recon-all -all -qcache
+  recon-all -all -qcache \
   -i ${DATADIR}/${SUBJ}/${DCM} \
   -subjid ${SUBJ} \
   -hippocampal-subfields-T1
