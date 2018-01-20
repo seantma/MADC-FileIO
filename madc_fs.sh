@@ -62,9 +62,11 @@ do
   echo "Processing subject: ${SUBJ}"
   echo
 
+  echo ${DATADIR}/${SUBJ}/${DCM}
+
   # start recon-all
-  # -parallel -openmp 6 \
   recon-all -all -qcache \
+  -parallel -openmp 4 \
   -i ${DATADIR}/${SUBJ}/${DCM} \
   -subjid ${SUBJ} \
   -hippocampal-subfields-T1
