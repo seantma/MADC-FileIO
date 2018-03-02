@@ -1,3 +1,47 @@
+# 3rd batch preparation - 03/02/2018
+hlp17umm01353
+hlp17umm01357
+hlp17umm01358
+hlp17umm01384
+hlp17umm01395
+hlp17umm01372
+hlp17umm01382
+hlp17umm01374
+hlp17umm01387
+hlp17umm01388
+
+tar -cvf ../Haacke_Transfer/Haacke_2nd_batch.tar --totals \
+--transform='flags=r;s/s00003/T1/' \
+--transform='flags=r;s/s00004/T2_FLAIR/' \
+--transform='flags=r;s/s00009/B1/' \
+--transform='flags=r;s/s00010/B2/' \
+--transform='flags=r;s/s00011/B3/' \
+--transform='flags=r;s/s00012/T2/' \
+--transform='flags=r;s/s00014/2D_FQ/' \
+./{hlp17umm00773_*,\
+hlp17umm01346_*,\
+hlp17umm01364_*,\
+hlp17umm01360_*,\
+hlp17umm01362_*,\
+hlp17umm01378_*,\
+hlp17umm01368_*,\
+hlp17umm01379_*,\
+hlp17umm01380_*}/dicom/s000{03/,04/,09/,10/,11/,12/,14/} 2>&1 \
+| tee ../Haacke_Transfer/Haacke_2nd_batch_$(date +"%Y%m%d").txt
+
+# appending -r(--append) nonstandared subject files to current tar ball;
+tar -rvf ../Haacke_Transfer/Haacke_2nd_batch.tar --totals \
+--transform='flags=r;s/s00003/T1/' \
+--transform='flags=r;s/s00004/T2_FLAIR/' \
+--transform='flags=r;s/s00007/B1/' \
+--transform='flags=r;s/s00008/B2/' \
+--transform='flags=r;s/s00009/B3/' \
+--transform='flags=r;s/s00010/T2/' \
+--transform='flags=r;s/s00013/2D_FQ/' \
+./hlp17umm01341_*/dicom/s000{03/,04/,07/,08/,09/,10/,13/} \
+|& tee ../Haacke_Transfer/Haacke_2nd_batch_add1341_$(date +"%Y%m%d").txt
+
+
 # 2nd batch preparation
 tar -cvf ../Haacke_Transfer/Haacke_2nd_batch.tar --totals \
 --transform='flags=r;s/s00003/T1/' \
