@@ -1,3 +1,13 @@
+# 2D FQ scans retransfer request
+# 14/03/2018, 17:13:25
+tar -zcvf ../Haacke_Transfer/Haacke_3rd_batch_2DFQ_ReTX.tar --totals \
+--transform='flags=r;s/s00014/2D_FQ/' \
+./{hlp17umm01384_*,\
+hlp17umm01388_*,\
+hlp17umm01395_*,\
+hlp17umm01372_*}/dicom/s00014/ 2>&1 \
+|& tee ../Haacke_Transfer/Logs/Haacke_3rd_batch_2DFQ_ReTX_$(date +"%Y%m%d").txt
+
 # 3rd batch preparation - 03/02/2018
 hlp17umm01353
 hlp17umm01357
