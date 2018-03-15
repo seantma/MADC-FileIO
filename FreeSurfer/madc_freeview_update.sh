@@ -1,5 +1,5 @@
 #!/bin/bash
-freeview -v ./{$1}/mri/wm.mgz ./{$1}/mri/brainmask.mgz ./{$1}/mri/T1.mgz -f \
+freeview -v ./${1}/mri/wm.mgz ./${1}/mri/brainmask.mgz ./${1}/mri/T1.mgz -f \
 ./surf/lh.white:edgecolor=magenta:edgethickness=1 \
 ./surf/rh.white:edgecolor=magenta:edgethickness=1 \
 ./surf/lh.pial:edgecolor=cyan:edgethickness=1  \
