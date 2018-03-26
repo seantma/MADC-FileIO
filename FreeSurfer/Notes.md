@@ -12,6 +12,7 @@ Needed a place to capture Freesurfer command lines knowledge and wiki locations
 3. Correcting pial surfaces: http://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/PialEdits_freeview
 4. Update after edits: https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/TroubleshootingData
 5. `recon-all` options: https://surfer.nmr.mgh.harvard.edu/fswiki/ReconAllTableStableV6.0
+6. `persistent edits` options: https://surfer.nmr.mgh.harvard.edu/fswiki/Edits
 
 ### UT Dallas Freesurfer User Guide added
 - has both general and in-depth knowledge captured
