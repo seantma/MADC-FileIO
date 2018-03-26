@@ -9,6 +9,17 @@
 #
 # usage: sh ./madc_fs.sh
 
+# TODO::
+# 1. add in a flag file - `1-Orig-recon-all-DONE.flag` for later
+#    edit update script or report script to check upon on
+# 2. create a master `done.report.txt` to log last 4 lines in `recon-all.log`
+# Started at Sat Mar 24 00:16:13 EDT 2018
+# Ended   at Sat Mar 24 07:34:53 EDT 2018
+# #@#%# recon-all-run-time-hours 7.311
+# recon-all -s bmh14mci00003 finished without error at Sat Mar 24 07:34:53 EDT 2018
+# 3. automatically backup wm.mgz, brainmask.mgz & /surf for later on usage
+
+
 subjIDs=(
 # Original T1s
 # # bmh17umm01337_03349
