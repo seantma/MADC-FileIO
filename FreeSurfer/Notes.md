@@ -30,3 +30,10 @@ Needed a place to capture Freesurfer command lines knowledge and wiki locations
     - **need to investigate the actual detailed script!!**
 3. Similar discussion on custom template was also discussed in `fmriprep`: https://github.com/poldracklab/fmriprep/issues/330
 4. Although `Freesurfer` had a wiki page on `SurfaceRegAndTemplates`, it was not clear on the mapping procedures and how it could be generalizable to other use cases (compared with Merkel 2015): https://surfer.nmr.mgh.harvard.edu/fswiki/SurfaceRegAndTemplates
+
+
+### OpenSSL issue
+Similar issue happened when executing `FSLeyes` on *RedHat 7* server with **FIPS enabled**.
+> [tehsheng@madcbrain UMH_000001__preprocessed]$ fsleyes
+> fips.c(143): OpenSSL internal error, assertion failed: FATAL FIPS SELFTEST FAILURE
+> /opt/apps/fsl/bin/fsleyes: line 6: 31997 Aborted                 ${FSLDIR}/bin/FSLeyes/fsleyes $@
