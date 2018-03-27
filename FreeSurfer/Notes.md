@@ -37,3 +37,5 @@ Similar issue happened when executing `FSLeyes` on *RedHat 7* server with **FIPS
 > [tehsheng@madcbrain UMH_000001__preprocessed]$ fsleyes
 > fips.c(143): OpenSSL internal error, assertion failed: FATAL FIPS SELFTEST FAILURE
 > /opt/apps/fsl/bin/fsleyes: line 6: 31997 Aborted                 ${FSLDIR}/bin/FSLeyes/fsleyes $@
+
+But there was not an issue when executing `fslview_deprecated (3.2.0)`
