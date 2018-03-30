@@ -1,3 +1,61 @@
+# 4th batch transfer
+# 3/30/2018, 12:22:00 PM
+
+# preparation
+hlp17umm01294_*,\
+hlp17umm01053_*,\
+hlp17umm01174_*,\
+hlp17umm01389_*,\
+hlp17umm01396_*,\
+hlp17umm01260_*,\
+hlp17umm01250_*,\
+hlp17umm01398_*,\
+hlp17umm01401_*,\
+hlp17umm01399_*,\
+
+# scripts - main bulk
+tar -cvf ../Haacke_Transfer/Haacke_4th_batch.tar --totals \
+--transform='flags=r;s/s00003/T1/' \
+--transform='flags=r;s/s00004/T2_FLAIR/' \
+--transform='flags=r;s/s00009/B1/' \
+--transform='flags=r;s/s00010/B2/' \
+--transform='flags=r;s/s00011/B3/' \
+--transform='flags=r;s/s00012/T2/' \
+--transform='flags=r;s/s00014/2D_FQ/' \
+./{hlp17umm01294_*,\
+hlp17umm01174_*,\
+hlp17umm01389_*,\
+hlp17umm01396_*,\
+hlp17umm01260_*,\
+hlp17umm01250_*,\
+hlp17umm01398_*,\
+hlp17umm01401_*}/dicom/s000{03/,04/,09/,10/,11/,12/,14/} 2>&1 \
+| tee ../Haacke_Transfer/Haacke_4th_batch_$(date +"%Y%m%d").txt
+
+# variation 1
+tar -rvf ../Haacke_Transfer/Haacke_4th_batch.tar --totals \
+--transform='flags=r;s/s00003/T1/' \
+--transform='flags=r;s/s00004/T2_FLAIR/' \
+--transform='flags=r;s/s00007/B1/' \
+--transform='flags=r;s/s00008/B2/' \
+--transform='flags=r;s/s00009/B3/' \
+--transform='flags=r;s/s00010/T2/' \
+--transform='flags=r;s/s00012/2D_FQ/' \
+./hlp17umm01053_*/dicom/s000{03/,04/,07/,08/,09/,10/,12/} 2>&1 \
+| tee ../Haacke_Transfer/Haacke_4th_batch-1_$(date +"%Y%m%d").txt
+
+# variation 2
+tar -rvf ../Haacke_Transfer/Haacke_4th_batch.tar --totals \
+--transform='flags=r;s/s00003/T1/' \
+--transform='flags=r;s/s00004/T2_FLAIR/' \
+--transform='flags=r;s/s00010/B1/' \
+--transform='flags=r;s/s00011/B2/' \
+--transform='flags=r;s/s00012/B3/' \
+--transform='flags=r;s/s00013/T2/' \
+--transform='flags=r;s/s00015/2D_FQ/' \
+./hlp17umm01399_*/dicom/s000{03/,04/,10/,11/,12/,13/,15/} 2>&1 \
+| tee ../Haacke_Transfer/Haacke_4th_batch-2_$(date +"%Y%m%d").txt
+
 # 2D FQ scans retransfer request
 # 14/03/2018, 17:13:25
 tar -zcvf ../Haacke_Transfer/Haacke_3rd_batch_2DFQ_ReTX.tar --totals \
