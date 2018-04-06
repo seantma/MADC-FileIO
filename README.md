@@ -1,26 +1,6 @@
-## Script logic
-Might need Make/Ansible/Python to integrate altogether
+## Notes for MADC MRI related
 
-### MADC
-1. Do a diff between local and Singer
-2. rsync the diff files back
-3. mark the diff files on Google sheet
-4. compare Google sheet with local folder
-5. Generate a report and email what is missing
-6. if possible, cross check /w Consensus (need to scp files from S: drive)
+### FIPS issue for Freesurfer/FSLeyes
+`strace -o /tmp/,strace.out -fmri_convert sample-001.mgz sample-001.nii.gz`
 
-### MERIT
-1. Do a diff between local and Singer
-2. rsync the diff files back
-3. mark the diff files on Excel fMRI Tracker ==> need to investigate how to ssh Z: drive
-4. map fMRI sequence number
-5. log in correct fMRI ID based on sequence number
-6. Generate a report and email what is missing 
-
-### Old logic
-1. Goto Singer and list files
-`ls -td hlp17* | sort  -k2,2gr -t '_'`
-2. Match sorted files with Google sheet
-3. Copy what is present to local
-4. Generate a report on what is missing
-5. Need a script to scrape Outlook fmri slots to cross check with Consensus
+This is due to RHEL7's more stringent `cryptology` that rejects library calls from softwares like `Freesurfer` that verifies the **license.txt** files. Ben's RHEL6.9 is relieved from that. This is the findings after collaborating with Ben Faunnet. He used `strace` to track the calls from the software.
