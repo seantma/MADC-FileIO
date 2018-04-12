@@ -2,6 +2,14 @@
 Prepared by Sean Ma @MADC
 Mar 30, 2018
 
+### Conference call notes
+1. 4/12/2018, 4:28:15 PM
+    - Sean will include the 4 missing folders
+    - within the 4 missing folders, the `SPINGenerated` includes the Excel sheets. These files instead will be uploaded to our shared **Box** folder
+    - they will add the MTL in the report
+    - group reports will be done by n=50 as it requires extra time to compile. If individual Excel sheets have the needed volume/pixel/etc, then I can compile it myself instead.
+    -  Sean requested to share the diagnosis for these SWI subjects ==> Ask Ari
+
 ### Questions regarding reports
 
 #### General questions
