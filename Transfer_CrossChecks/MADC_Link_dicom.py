@@ -6,3 +6,4 @@
 # @Last modified time: 2018-03-05T13:39:52-05:00
 
 # Link s0000x dicom folders to actual modalities to allow further processing
+# 1. create links from original dicom folders to actual modalities
