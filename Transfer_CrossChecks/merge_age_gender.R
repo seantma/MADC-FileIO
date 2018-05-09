@@ -4,6 +4,7 @@
 #
 
 # ---------------------
+# merging age/gender info for Haacke group
 library(tidyverse)
 
 setwd("~/Box Sync/MADC/MADC_Imaging/Haacke_Data_Transfer")
@@ -37,18 +38,39 @@ gs_track <- gs_mri %>%
 # accessing MADC server to get /RAW_nonpreprocess info
 library(ssh.utils)
 remote <- "tehsheng@madcbrain.umms.med.umich.edu"
-cmd1 <- "cd /nfs/fmri/RAW_nopreprocess; ls -td *17umm*"
-madc_mri <- run.remote(cmd=cmd1, remote=remote, verbose = TRUE)
+cmd_ls <- "cd /nfs/fmri/RAW_nopreprocess; ls -td *17umm*"
+madc_mri <- run.remote(cmd=cmd_ls, remote=remote, verbose = TRUE)
 
 # extract directory data from list structure to df; rename column; add server status
-madc_mri <- as.data.frame(madc_mri$cmd.out); colnames(madc_mri) <- "Server_MRI_ID"
-madc_mri$Server_status <- "Yes"
+madc_mri_df <- as.data.frame(madc_mri$cmd.out); colnames(madc_mri_df) <- "Server_MRI_ID"
+madc_mri_df$Server_status <- "Yes"
 
 # separate fmri sequence number from ID
-madc_mri <- madc_mri %>%
+madc_mri_df <- madc_mri_df %>%
   separate(Server_MRI_ID, c("Server_ID", "Server_Seq")) %>%
-  arrange(desc(Server_ID)) %>%
-  select(Server_ID)
+  arrange(desc(Server_Seq)) %>%
+  mutate(UDS_ID = str_extract(Server_ID, "[0-9]+$"))
+
+# getting /dicom folder creation date for scan date!!
+cmd_dicomDate <- "cd /nfs/fmri/RAW_nopreprocess; find *17umm*/ -maxdepth 2 -type d -name \'s00003\' -printf \'%p %Tm-%Td-%TY\n\'"
+madc_mri_dicomDate <- run.remote(cmd=cmd_dicomDate, remote=remote, verbose = TRUE)
+madc_mri_dicomDate_df <- as.data.frame(madc_mri_dicomDate$cmd.out); colnames(madc_mri_dicomDate_df) <- "Subject_dicom"
+
+# separate date from subject ID
+madc_mri_dicomDate_df <- madc_mri_dicomDate_df %>%
+  separate(Subject_dicom, c("Subject_dicom", "Date"), sep = " ") %>%
+  separate(Subject_dicom, c("Subject", "dicom", "s_folder"), sep = "/") %>%
+  separate(Subject, c("Server_ID", "Server_Seq"), sep = "_") %>%
+  arrange(desc(Server_Seq))
+
+# comparing differences in subject IDs /w anti_join
+anti_join(madc_mri_df, madc_mri_dicomDate_df)
+
+# left_join Server_ID with folders that have /raw folder
+madc_mri_df <- madc_mri_df %>%
+  left_join(madc_mri_dicomDate_df, by = c("Server_ID", "Server_Seq"))
+
+write.csv(madc_mri_df, "Transfer_CrossChecks/MADC_MRI_List_with_Dates.csv")
 
 # ---------------------
 # finding difference between Server and Google sheet MRI IDs
@@ -56,3 +78,6 @@ library(daff)
 
 patch <- diff_data(madc_mri, gs_track)
 render_diff(patch)
+
+# ---------------------
+# NEXT write back to Google Sheet !!
