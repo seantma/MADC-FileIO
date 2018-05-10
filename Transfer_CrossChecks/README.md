@@ -1,6 +1,11 @@
 ## Script logic
 Might need Make/Ansible/Python to integrate altogether
 
+### TODOs
+1. populate Google sheet from /nfs/fmri/RAW_preprocessing folder list and files
+2. populate existing scanned modalities, ie. s folders, from /RAW_preprocessing folders & files
+3. use MADC scanner sheets to verify 
+
 ### MADC
 1. Do a diff between local and Singer
 2. rsync the diff files back
@@ -15,7 +20,7 @@ Might need Make/Ansible/Python to integrate altogether
 3. mark the diff files on Excel fMRI Tracker ==> need to investigate how to ssh Z: drive
 4. map fMRI sequence number
 5. log in correct fMRI ID based on sequence number
-6. Generate a report and email what is missing 
+6. Generate a report and email what is missing
 
 ### Old logic
 1. Goto Singer and list files
