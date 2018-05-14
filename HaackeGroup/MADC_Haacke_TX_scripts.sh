@@ -1,3 +1,36 @@
+# 5th batch transfer
+# 5/14/2018, 2:33:34 PM
+
+# preparation
+hlp17umm01402_*,\
+hlp17umm01405_*,\
+hlp17umm01220_*,\
+hlp17umm01299_*,\
+hlp17umm00732_*,\
+hlp17umm01412_*,\
+hlp17umm01356_*,\
+hlp17umm01263_*,\
+hlp17umm01403_*,\
+hlp17umm01404_*,\
+
+# scripts - main bulk
+tar -cvf ../Haacke_Transfer/Haacke_5th_batch.tar --totals \
+--transform='flags=r;s/s00003/T1/' \
+--transform='flags=r;s/s00004/T2_FLAIR/' \
+--transform='flags=r;s/s00009/B1/' \
+--transform='flags=r;s/s00010/B2/' \
+--transform='flags=r;s/s00011/B3/' \
+--transform='flags=r;s/s00012/T2/' \
+--transform='flags=r;s/s00014/2D_FQ/' \
+./{hlp17umm01405_*,\
+hlp17umm01220_*,\
+hlp17umm01299_*,\
+hlp17umm00732_*,\
+hlp17umm01412_*,\
+hlp17umm01356_*,\
+hlp17umm01404_*}/dicom/s000{03/,04/,09/,10/,11/,12/,14/} 2>&1 \
+| tee ../Haacke_Transfer/Haacke_5th_batch_$(date +"%Y%m%d").txt
+
 # 4th batch transfer
 # 3/30/2018, 12:22:00 PM
 
