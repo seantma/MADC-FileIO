@@ -4,7 +4,8 @@ Might need Make/Ansible/Python to integrate altogether
 ### TODOs
 1. populate Google sheet from /nfs/fmri/RAW_preprocessing folder list and files
 2. populate existing scanned modalities, ie. s folders, from /RAW_preprocessing folders & files
-3. use MADC scanner sheets to verify 
+3. use MADC scanner sheets to verify
+4. Create analysis folder /w symlinks for all subjects (ie. dicom folders renamed??)
 
 ### MADC
 1. Do a diff between local and Singer
