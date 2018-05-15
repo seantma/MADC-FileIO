@@ -31,6 +31,31 @@ hlp17umm01356_*,\
 hlp17umm01404_*}/dicom/s000{03/,04/,09/,10/,11/,12/,14/} 2>&1 \
 | tee ../Haacke_Transfer/Haacke_5th_batch_$(date +"%Y%m%d").txt
 
+# variation 1 - 1402
+tar -rvf ../Haacke_Transfer/Haacke_5th_batch.tar --totals \
+--transform='flags=r;s/s00003/T1/' \
+--transform='flags=r;s/s00004/T2_FLAIR/' \
+--transform='flags=r;s/s00011/B1/' \
+--transform='flags=r;s/s00012/B2/' \
+--transform='flags=r;s/s00013/B3/' \
+--transform='flags=r;s/s00014/T2/' \
+--transform='flags=r;s/s00016/2D_FQ/' \
+./hlp17umm01402_*/dicom/s000{03/,04/,11/,12/,13/,14/,16/} 2>&1 \
+| tee ../Haacke_Transfer/Haacke_5th_batch-1_$(date +"%Y%m%d").txt
+
+# variation 2 - 1263, 1403
+tar -rvf ../Haacke_Transfer/Haacke_5th_batch.tar --totals \
+--transform='flags=r;s/s00003/T1/' \
+--transform='flags=r;s/s00004/T2_FLAIR/' \
+--transform='flags=r;s/s00009/B1/' \
+--transform='flags=r;s/s00010/B2/' \
+--transform='flags=r;s/s00011/B3/' \
+--transform='flags=r;s/s00012/T2/' \
+--transform='flags=r;s/s00015/2D_FQ/' \
+./{hlp17umm01263_*,\
+hlp17umm01403_*}/dicom/s000{03/,04/,09/,10/,11/,12/,15/} 2>&1 \
+| tee ../Haacke_Transfer/Haacke_5th_batch-2_$(date +"%Y%m%d").txt
+
 # 4th batch transfer
 # 3/30/2018, 12:22:00 PM
 
