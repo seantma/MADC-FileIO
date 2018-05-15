@@ -1,5 +1,8 @@
 ## Notes for MADC MRI related
 
+### Haacke group transfer
+Need to generate symlinks for all subjects to better script package for Haacke group SWI packaging
+
 ### FIPS issue for Freesurfer/FSLeyes
 `strace -o /tmp/,strace.out -fmri_convert sample-001.mgz sample-001.nii.gz`
 
