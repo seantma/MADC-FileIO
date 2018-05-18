@@ -53,7 +53,7 @@ cd ${DATADIR}
 export SUBJECTS_DIR=/mnt/psych-bhampstelab/MADC/FSresults
 
 # calling Freesurfer master scripts in /ftools
-source ~/Projects/ftools/FreeSurfer_master/fs6_reconall.sh
+source ~/Projects/fmri-tools/FreeSurfer_master/fs6_reconall.sh
 
 # done!
 echo
