@@ -52,47 +52,10 @@ cd ${DATADIR}
 # setting up environment
 export SUBJECTS_DIR=/mnt/psych-bhampstelab/MADC/FSresults
 
-# looping over subjects
-for SUBJ in ${subjIDs[@]}
-do
-  cd ${DATADIR}/${SUBJ}
-  # Dicoms for original T1s
-  DCM=`find . -type f -name '*.1'`
-  # Dicoms for STAGE processed T1s
-  # DCM=`find . -type f -name '[0-9]*-1.dcm'`
+# calling Freesurfer master scripts in /ftools
+source ~/Projects/ftools/FreeSurfer_master/fs6_reconall.sh
 
-  # log start time
-  THEDATE=`date`
-
-  echo
-  echo ======================================
-  echo Start $THEDATE
-
-  # print subject being processed
-  echo
-  echo "Processing subject: ${SUBJ}"
-  echo
-
-  echo ${DATADIR}/${SUBJ}/${DCM}
-
-  # start recon-all
-  recon-all -all -qcache \
-  -parallel -openmp 2 \
-  -i ${DATADIR}/${SUBJ}/${DCM} \
-  -subjid ${SUBJ} \
-  -hippocampal-subfields-T1
-
-  echo ${DATADIR}/${SUBJ}/${DCM}
-
-  # log end time
-  THEDATE=`date`
-
-  echo
-  echo End $THEDATE
-  echo
-
-done
-
+# done!
 echo
 echo "Completed !!!"
 echo
