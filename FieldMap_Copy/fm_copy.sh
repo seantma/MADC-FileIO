@@ -11,7 +11,7 @@ echo "==== Backing up subject - ${SUBJ} ===="
 echo
 
 # need to check subject directory to avoid copying wrong place
-WORDIR=/nfs/fmri/RAW_nopreprocess/temp/${SUBJ}
+WORKDIR=/nfs/fmri/RAW_nopreprocess/temp/${SUBJ}
 
 if [ -d "$WORKDIR" ]; then
   cd /nfs/fmri/RAW_nopreprocess/temp/${SUBJ}
