@@ -3,9 +3,9 @@
 # Sean MA, 5/31/2018, 3:50:45 PM
 # inspired by fmri Lab - batch_ummap_fm.sh
 #
-NPAR=3
+NPAR=6
 
 cd /nfs/fmri/RAW_nopreprocess
-SUBJDIRS=$(ls -d hlp17umm007** | grep -v test  | grep -v hlp17umm01494_05012 | sort -t_ -k2)
+SUBJDIRS=$(ls -d {hlp**,bmh**} | grep -v test  | grep -v hlp17umm01494_05012 | sort -t_ -k2)
 
 echo $SUBJDIRS | xargs --max-args=1 --max-procs=$NPAR ~/Projects/MADC-FileIO/FieldMap_Copy/fm_copy.sh
