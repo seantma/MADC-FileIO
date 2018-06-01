@@ -6,7 +6,7 @@
 
 # one subject at a time
 SUBJ=$1
-echo ${SUBJ}
+echo "Backing up subject - ${SUBJ} ..."
 
 # need to change to subject directory to avoid copying wrong place
 cd /nfs/fmri/RAW_nopreprocess/temp/${SUBJ}
