@@ -11,10 +11,10 @@ echo "==== Backing up subject - ${SUBJ} ===="
 echo
 
 # need to check subject directory to avoid copying wrong place
-WORKDIR=/nfs/fmri/RAW_nopreprocess/temp/${SUBJ}
+WORKDIR=/nfs/fmri/RAW_nopreprocess/${SUBJ}
 
 if [ -d "$WORKDIR" ]; then
-  cd /nfs/fmri/RAW_nopreprocess/temp/${SUBJ}
+  cd /nfs/fmri/RAW_nopreprocess/${SUBJ}
 
   # rsync archive mode, /w relative to preserve folder structure, progress
   rsync -avh --stats --relative -D0P \
