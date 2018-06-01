@@ -10,11 +10,20 @@ echo
 echo "==== Backing up subject - ${SUBJ} ===="
 echo
 
-# need to change to subject directory to avoid copying wrong place
-cd /nfs/fmri/RAW_nopreprocess/temp/${SUBJ}
+# need to check subject directory to avoid copying wrong place
+WORDIR=/nfs/fmri/RAW_nopreprocess/temp/${SUBJ}
 
-# rsync archive mode, /w relative to preserve folder structure, progress
-rsync -avh --stats --relative -D0P \
---files-from=<(ssh -t fmrilab@singer.engin.umich.edu "cd /export/archive/trailer/${SUBJ}; find ./func/ -mtime -7 -print0") \
---log-file=./Logs_rsync_FieldMap/rsync_${SUBJ}_FieldMap_$(date +"%m%d_%Y_%Hh%Mm%Ss").log \
-fmrilab@singer.engin.umich.edu:/export/archive/trailer/${SUBJ}/ .
+if [ -d "$WORKDIR" ]; then
+  cd /nfs/fmri/RAW_nopreprocess/temp/${SUBJ}
+
+  # rsync archive mode, /w relative to preserve folder structure, progress
+  rsync -avh --stats --relative -D0P \
+  --files-from=<(ssh -t fmrilab@singer.engin.umich.edu "cd /export/archive/trailer/${SUBJ}; find ./func/ -mtime -7 -print0") \
+  --log-file=./Logs_rsync_FieldMap/rsync_${SUBJ}_FieldMap_$(date +"%m%d_%Y_%Hh%Mm%Ss").log \
+  fmrilab@singer.engin.umich.edu:/export/archive/trailer/${SUBJ}/ .
+
+else
+  echo
+  echo "!!! Subject folder - ${SUBJ} - does NOT exist !!! SKIPPING!!!"
+  echo
+fi
