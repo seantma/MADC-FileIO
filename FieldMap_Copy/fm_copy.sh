@@ -19,7 +19,7 @@ if [ -d "$WORKDIR" ]; then
   # rsync archive mode, /w relative to preserve folder structure, progress
   rsync -avh --stats --relative -D0P \
   --files-from=<(ssh -t fmrilab@singer.engin.umich.edu "cd /export/archive/trailer/${SUBJ}; find ./func/ -mtime -7 -print0") \
-  --log-file=./Logs_rsync_FieldMap/rsync_${SUBJ}_FieldMap_$(date +"%m%d_%Y_%Hh%Mm%Ss").log \
+  --log-file=../Logs_rsync_FieldMap/rsync_${SUBJ}_FieldMap_$(date +"%m%d_%Y_%Hh%Mm%Ss").log \
   fmrilab@singer.engin.umich.edu:/export/archive/trailer/${SUBJ}/ .
 
 else
