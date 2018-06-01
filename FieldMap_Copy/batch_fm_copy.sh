@@ -3,7 +3,7 @@
 # Sean MA, 5/31/2018, 3:50:45 PM
 # inspired by fmri Lab - batch_ummap_fm.sh
 #
-NPAR=3
+NPAR=1
 
 cd /nfs/fmri/RAW_nopreprocess
 SUBJDIRS=$(ls -d {hlp**,bmh**} | grep -v test  | grep -v hlp17umm01494_05012 | sort -t_ -k2)
