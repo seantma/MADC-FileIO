@@ -4,10 +4,10 @@
 # inspired by fmri Lab - batch_ummap_fm.sh
 #
 # define number of processors
-NPAR=4
+NPAR=1
 
 # entering working directory
-cd /nfs/fmri/RAW_nopreprocess
+cd /nfs/fmri/RAW_nopreprocess/temp
 
 # find numbers of files in /dicom/s00003
 # find ./{hlp**,bmh**}/dicom/s00003 -type d -exec sh -c 'echo "$(ls {} | wc -l)" {}' \; > t1_dicom_list.txt
