@@ -7,7 +7,7 @@
 NPAR=1
 
 # entering working directory
-cd /nfs/fmri/RAW_nopreprocess/temp
+cd /nfs/fmri/RAW_nopreprocess
 
 # find numbers of files in /dicom/s00003
 # find ./{hlp**,bmh**}/dicom/s00003 -type d -exec sh -c 'echo "$(ls {} | wc -l)" {}' \; > t1_dicom_list.txt
