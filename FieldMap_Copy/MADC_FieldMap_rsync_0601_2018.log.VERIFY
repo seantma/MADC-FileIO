@@ -1,320 +1,0 @@
-
-==== Backing up subject - bmh17umm01241_03276 ====
-
-
-==== Backing up subject - bmh17umm01337_03349 ====
-
-
-==== Backing up subject - bmh17umm01342_03350 ====
-
-
-
-==== Backing up subject - hlp17umm01355_03359 ====
-==== Backing up subject - bmh17umm01347_03358 ====
-
-
-
-==== Backing up subject - hlp17umm01343_03378 ====
-
-Pseudo-terminal will not be allocated because stdin is not a terminal.
-FIPS mode initialized
-Pseudo-terminal will not be allocated because stdin is not a terminal.
-FIPS mode initialized
-Pseudo-terminal will not be allocated because stdin is not a terminal.
-FIPS mode initialized
-Pseudo-terminal will not be allocated because stdin is not a terminal.
-FIPS mode initialized
-Pseudo-terminal will not be allocated because stdin is not a terminal.
-FIPS mode initialized
-Pseudo-terminal will not be allocated because stdin is not a terminal.
-FIPS mode initialized
-FIPS mode initialized
-FIPS mode initialized
-FIPS mode initialized
-FIPS mode initialized
-FIPS mode initialized
-FIPS mode initialized
-ssh_exchange_identification: read: Connection reset by peer
-rsync: connection unexpectedly closed (0 bytes received so far) [Receiver]
-rsync error: unexplained error (code 255) at io.c(226) [Receiver=3.1.2]
-xargs: /home/tehsheng/Projects/MADC-FileIO/FieldMap_Copy/fm_copy.sh: exited with status 255; aborting
-This computer is property of the University of Michigan and is
-intended for authorized use only.  By logging in you are
-acknowledging you have read and accepted these terms or service.
-This computer is property of the University of Michigan and is
-intended for authorized use only.  By logging in you are
-acknowledging you have read and accepted these terms or service.
-This computer is property of the University of Michigan and is
-intended for authorized use only.  By logging in you are
-acknowledging you have read and accepted these terms or service.
-This computer is property of the University of Michigan and is
-intended for authorized use only.  By logging in you are
-acknowledging you have read and accepted these terms or service.
-This computer is property of the University of Michigan and is
-intended for authorized use only.  By logging in you are
-acknowledging you have read and accepted these terms or service.
-This computer is property of the University of Michigan and is
-intended for authorized use only.  By logging in you are
-acknowledging you have read and accepted these terms or service.
-This computer is property of the University of Michigan and is
-intended for authorized use only.  By logging in you are
-acknowledging you have read and accepted these terms or service.
-This computer is property of the University of Michigan and is
-intended for authorized use only.  By logging in you are
-acknowledging you have read and accepted these terms or service.
-This computer is property of the University of Michigan and is
-intended for authorized use only.  By logging in you are
-acknowledging you have read and accepted these terms or service.
-This computer is property of the University of Michigan and is
-intended for authorized use only.  By logging in you are
-acknowledging you have read and accepted these terms or service.
-This computer is property of the University of Michigan and is
-intended for authorized use only.  By logging in you are
-acknowledging you have read and accepted these terms or service.
-receiving file list ... receiving file list ... receiving file list ... 
-51 files to consider
-receiving file list ... receiving file list ... ./
-
-0 files to consider
-
-Number of files: 0
-Number of created files: 0
-Number of deleted files: 0
-Number of regular files transferred: 0
-Total file size: 0 bytes
-Total transferred file size: 0 bytes
-Literal data: 0 bytes
-Matched data: 0 bytes
-File list size: 7
-Total bytes sent: 13
-Total bytes received: 7
-
-sent 13 bytes  received 7 bytes  8.00 bytes/sec
-total size is 0  speedup is 0.00
-func/
-func/alignref_from_resting.nii
-              0   0%    0.00kB/s    0:00:00  
-51 files to consider
-        493.19K 100%   12.71MB/s    0:00:00 (xfr#1, to-chk=47/51)
-func/fieldmap_correct.log
-              0   0%    0.00kB/s    0:00:00              830 100%   18.85kB/s    0:00:00 (xfr#2, to-chk=46/51)
-func/fieldmaps/
-func/fieldmaps/FM_resting/
-func/fieldmaps/FM_resting/dicom/
-func/fieldmaps/FM_resting/dicom/FM.nii
-              0   0%    0.00kB/s    0:00:00  ./
-func/
-func/alignref_from_resting.nii
-              0   0%    0.00kB/s    0:00:00            3.02M 100%   19.56MB/s    0:00:00 (xfr#3, to-chk=38/51)
-func/fieldmaps/FM_resting/dicom/FM.topup_log
-              0   0%    0.00kB/s    0:00:00            1.67K 100%   10.11kB/s    0:00:00 (xfr#4, to-chk=37/51)
-func/fieldmaps/FM_resting/dicom/FM0000.nii
-              0   0%    0.00kB/s    0:00:00          493.19K 100%    5.53MB/s    0:00:00 (xfr#1, to-chk=47/51)
-func/fieldmap_correct.log
-              0   0%    0.00kB/s    0:00:00              830 100%    8.53kB/s    0:00:00 (xfr#2, to-chk=46/51)
-func/fieldmaps/
-func/fieldmaps/FM_resting/
-func/fieldmaps/FM_resting/dicom/
-func/fieldmaps/FM_resting/dicom/FM.nii
-              0   0%    0.00kB/s    0:00:00            1.47M 100%    6.83MB/s    0:00:00 (xfr#5, to-chk=36/51)
-func/fieldmaps/FM_resting/dicom/FM0001.nii
-              0   0%    0.00kB/s    0:00:00            1.47M 100%    4.78MB/s    0:00:00 (xfr#6, to-chk=35/51)
-          3.02M 100%   14.23MB/s    0:00:00 (xfr#3, to-chk=38/51)
-func/fieldmaps/FM_resting/dicom/FM0001_orig.nii
-              0   0%    0.00kB/s    0:00:00  func/fieldmaps/FM_resting/dicom/FM.topup_log
-              0   0%    0.00kB/s    0:00:00            1.67K 100%    7.50kB/s    0:00:00 (xfr#4, to-chk=37/51)
-func/fieldmaps/FM_resting/dicom/FM0000.nii
-              0   0%    0.00kB/s    0:00:00            1.47M 100%    4.20MB/s    0:00:00 (xfr#7, to-chk=34/51)
-func/fieldmaps/FM_resting/dicom/FM_fieldcoef.nii
-              0   0%    0.00kB/s    0:00:00          826.33K 100%    2.18MB/s    0:00:00 (xfr#8, to-chk=33/51)
-func/fieldmaps/FM_resting/dicom/FM_movpar.txt
-              0   0%    0.00kB/s    0:00:00              102 100%    0.27kB/s    0:00:00 (xfr#9, to-chk=32/51)
-func/fieldmaps/FM_resting/dicom/UMMAP32MB051517.nii
-              0   0%    0.00kB/s    0:00:00            1.47M 100%    4.49MB/s    0:00:00 (xfr#5, to-chk=36/51)
-          2.95M 100%    6.75MB/s    0:00:00 (xfr#10, to-chk=31/51)
-func/fieldmaps/FM_resting/dicom/FM0001.nii
-              0   0%    0.00kB/s    0:00:00  func/fieldmaps/FM_resting/dicom/datain.txt
-              0   0%    0.00kB/s    0:00:00               25 100%    0.06kB/s    0:00:00 (xfr#11, to-chk=30/51)
-func/fieldmaps/FM_resting/dicom/fFM0000.nii
-              0   0%    0.00kB/s    0:00:00            1.47M 100%    3.15MB/s    0:00:00 (xfr#12, to-chk=29/51)
-          1.47M 100%    4.03MB/s    0:00:00 (xfr#6, to-chk=35/51)
-
-0 files to consider
-
-Number of files: 0
-Number of created files: 0
-Number of deleted files: 0
-Number of regular files transferred: 0
-Total file size: 0 bytes
-Total transferred file size: 0 bytes
-Literal data: 0 bytes
-Matched data: 0 bytes
-File list size: 7
-Total bytes sent: 13
-Total bytes received: 7
-
-sent 13 bytes  received 7 bytes  5.71 bytes/sec
-total size is 0  speedup is 0.00
-func/fieldmaps/FM_resting/dicom/ffFM0000.nii
-func/fieldmaps/FM_resting/dicom/FM0001_orig.nii
-              0   0%    0.00kB/s    0:00:00                0   0%    0.00kB/s    0:00:00            1.47M 100%    3.01MB/s    0:00:00 (xfr#13, to-chk=28/51)
-          1.47M 100%    3.69MB/s    0:00:00 (xfr#7, to-chk=34/51)
-func/fieldmaps/FM_resting/dicom/ffFM0000_orig.nii
-              0   0%    0.00kB/s    0:00:00  func/fieldmaps/FM_resting/dicom/FM_fieldcoef.nii
-              0   0%    0.00kB/s    0:00:00            1.47M 100%    2.78MB/s    0:00:00 (xfr#14, to-chk=27/51)
-        826.33K 100%    1.90MB/s    0:00:00 (xfr#8, to-chk=33/51)
-func/fieldmaps/FM_resting/dicom/fpm0000.hdr
-              0   0%    0.00kB/s    0:00:00              352 100%    0.66kB/s    0:00:00 (xfr#15, to-chk=26/51)
-func/fieldmaps/FM_resting/dicom/fpm0000.img
-              0   0%    0.00kB/s    0:00:00  
-0 files to consider
-
-Number of files: 0
-Number of created files: 0
-Number of deleted files: 0
-Number of regular files transferred: 0
-Total file size: 0 bytes
-Total transferred file size: 0 bytes
-Literal data: 0 bytes
-Matched data: 0 bytes
-File list size: 7
-Total bytes sent: 13
-Total bytes received: 7
-
-sent 13 bytes  received 7 bytes  5.71 bytes/sec
-total size is 0  speedup is 0.00
-func/fieldmaps/FM_resting/dicom/FM_movpar.txt
-              0   0%    0.00kB/s    0:00:00              105 100%    0.23kB/s    0:00:00 (xfr#9, to-chk=32/51)
-func/fieldmaps/FM_resting/dicom/UMMAP32MB051517.nii
-              0   0%    0.00kB/s    0:00:00            2.95M 100%    5.73MB/s    0:00:00 (xfr#10, to-chk=31/51)
-func/fieldmaps/FM_resting/dicom/datain.txt
-              0   0%    0.00kB/s    0:00:00               25 100%    0.05kB/s    0:00:00 (xfr#11, to-chk=30/51)
-func/fieldmaps/FM_resting/dicom/fFM0000.nii
-              0   0%    0.00kB/s    0:00:00            2.95M 100%    4.55MB/s    0:00:00 (xfr#16, to-chk=25/51)
-func/fieldmaps/FM_resting/dicom/my_fieldmap.nii
-              0   0%    0.00kB/s    0:00:00            1.47M 100%    2.55MB/s    0:00:00 (xfr#12, to-chk=29/51)
-          3.02M 100%    4.27MB/s    0:00:00 (xfr#17, to-chk=24/51)
-func/fieldmaps/FM_resting/dicom/ffFM0000.nii
-              0   0%    0.00kB/s    0:00:00            1.47M 100%    2.38MB/s    0:00:00 (xfr#13, to-chk=28/51)
-func/fieldmaps/FM_resting/dicom/my_fieldmap_mag.nii
-              0   0%    0.00kB/s    0:00:00  func/fieldmaps/FM_resting/dicom/ffFM0000_orig.nii
-              0   0%    0.00kB/s    0:00:00            2.95M 100%    3.93MB/s    0:00:00 (xfr#18, to-chk=23/51)
-          1.47M 100%    2.24MB/s    0:00:00 (xfr#14, to-chk=27/51)
-func/fieldmaps/FM_resting/dicom/my_fieldmap_mag_brain.nii
-              0   0%    0.00kB/s    0:00:00  func/fieldmaps/FM_resting/dicom/fpm0000.hdr
-              0   0%    0.00kB/s    0:00:00              352 100%    0.53kB/s    0:00:00 (xfr#15, to-chk=26/51)
-func/fieldmaps/FM_resting/dicom/fpm0000.img
-              0   0%    0.00kB/s    0:00:00            2.95M 100%    3.68MB/s    0:00:00 (xfr#19, to-chk=22/51)
-func/fieldmaps/FM_resting/dicom/my_fieldmap_rads.nii
-              0   0%    0.00kB/s    0:00:00            2.95M 100%    4.14MB/s    0:00:00 (xfr#16, to-chk=25/51)
-func/fieldmaps/FM_resting/dicom/my_fieldmap.nii
-              0   0%    0.00kB/s    0:00:00            3.02M 100%    3.95MB/s    0:00:00 (xfr#17, to-chk=24/51)
-          2.95M 100%    3.40MB/s    0:00:00 (xfr#20, to-chk=21/51)
-func/fieldmaps/FM_resting/dicom/my_fieldmap_mag.nii
-              0   0%    0.00kB/s    0:00:00  func/fieldmaps/FM_resting/dicom/myfieldmap_resized.nii
-              0   0%    0.00kB/s    0:00:00            2.95M 100%    3.20MB/s    0:00:00 (xfr#21, to-chk=20/51)
-          2.95M 100%    3.59MB/s    0:00:00 (xfr#18, to-chk=23/51)
-func/fieldmaps/FM_resting/dicom/rs_pe0.nii
-              0   0%    0.00kB/s    0:00:00  func/fieldmaps/FM_resting/dicom/my_fieldmap_mag_brain.nii
-              0   0%    0.00kB/s    0:00:00            1.51M 100%    1.58MB/s    0:00:00 (xfr#22, to-chk=19/51)
-func/fieldmaps/FM_resting/dicom/rs_pe1.nii
-              0   0%    0.00kB/s    0:00:00            1.51M 100%    1.55MB/s    0:00:00 (xfr#23, to-chk=18/51)
-func/fieldmaps/FM_resting/dicom/se_epi_unwarped.nii
-              0   0%    0.00kB/s    0:00:00            2.95M 100%    3.24MB/s    0:00:00 (xfr#19, to-chk=22/51)
-func/fieldmaps/FM_resting/dicom/my_fieldmap_rads.nii
-              0   0%    0.00kB/s    0:00:00            4.62M  76%    4.41MB/s    0:00:00            6.03M 100%    5.64MB/s    0:00:01 (xfr#24, to-chk=17/51)
-          2.95M 100%    3.05MB/s    0:00:00 (xfr#20, to-chk=21/51)
-func/fieldmaps/FM_resting/dicom/myfieldmap_resized.nii
-              0   0%    0.00kB/s    0:00:00  func/fieldmaps/FM_resting/dicom/se_epi_unwarped_resized.nii
-              0   0%    0.00kB/s    0:00:00            2.95M 100%    2.83MB/s    0:00:00 (xfr#21, to-chk=20/51)
-func/fieldmaps/FM_resting/dicom/rs_pe0.nii
-              0   0%    0.00kB/s    0:00:00           32.77K   2%   31.71kB/s    0:00:46            1.51M 100%    1.41MB/s    0:00:01 (xfr#22, to-chk=19/51)
-          5.90M 100%   45.00MB/s    0:00:00 (xfr#25, to-chk=16/51)
-func/fieldmaps/FM_resting/dicom/rs_pe1.nii
-              0   0%    0.00kB/s    0:00:00  func/fieldmaps/FM_resting/dicom/tmp_pe0.nii
-              0   0%    0.00kB/s    0:00:00           33.12K 100%  220.03kB/s    0:00:00 (xfr#26, to-chk=15/51)
-          1.51M 100%   31.95MB/s    0:00:00 (xfr#23, to-chk=18/51)
-func/fieldmaps/FM_resting/dicom/tmp_pe1.nii
-              0   0%    0.00kB/s    0:00:00           33.12K 100%  198.43kB/s    0:00:00 (xfr#27, to-chk=14/51)
-func/fieldmaps/FM_resting/dicom/se_epi_unwarped.nii
-              0   0%    0.00kB/s    0:00:00  func/resting/
-func/resting/run_01/
-func/resting/run_01/fieldmap_correct.log
-              0   0%    0.00kB/s    0:00:00            3.63K 100%   19.04kB/s    0:00:00 (xfr#28, to-chk=8/51)
-func/resting/run_01/meanutprun_01.nii
-              0   0%    0.00kB/s    0:00:00          493.19K 100%    2.31MB/s    0:00:00 (xfr#29, to-chk=7/51)
-func/resting/run_01/rp_tprun_01.txt
-              0   0%    0.00kB/s    0:00:00           49.08K 100%  227.16kB/s    0:00:00 (xfr#30, to-chk=6/51)
-func/resting/run_01/tprun_01.mat
-              0   0%    0.00kB/s    0:00:00           65.09K 100%  291.57kB/s    0:00:00 (xfr#31, to-chk=5/51)
-func/resting/run_01/tprun_01_uw.mat
-              0   0%    0.00kB/s    0:00:00            6.03M 100%   41.97MB/s    0:00:00 (xfr#24, to-chk=17/51)
-func/fieldmaps/FM_resting/dicom/se_epi_unwarped_resized.nii
-              0   0%    0.00kB/s    0:00:00            5.90M 100%   22.23MB/s    0:00:00 (xfr#25, to-chk=16/51)
-func/fieldmaps/FM_resting/dicom/tmp_pe0.nii
-              0   0%    0.00kB/s    0:00:00           33.12K 100%  111.15kB/s    0:00:00 (xfr#26, to-chk=15/51)
-func/fieldmaps/FM_resting/dicom/tmp_pe1.nii
-              0   0%    0.00kB/s    0:00:00           33.12K 100%  105.35kB/s    0:00:00 (xfr#27, to-chk=14/51)
-func/resting/
-func/resting/run_01/
-func/resting/run_01/fieldmap_correct.log
-              0   0%    0.00kB/s    0:00:00            3.63K 100%   10.77kB/s    0:00:00 (xfr#28, to-chk=8/51)
-func/resting/run_01/meanutprun_01.nii
-              0   0%    0.00kB/s    0:00:00          493.19K 100%    1.38MB/s    0:00:00 (xfr#29, to-chk=7/51)
-func/resting/run_01/rp_tprun_01.txt
-              0   0%    0.00kB/s    0:00:00           49.08K 100%  132.77kB/s    0:00:00 (xfr#30, to-chk=6/51)
-func/resting/run_01/tprun_01.mat
-              0   0%    0.00kB/s    0:00:00           65.09K 100%  169.50kB/s    0:00:00 (xfr#31, to-chk=5/51)
-func/resting/run_01/tprun_01_uw.mat
-              0   0%    0.00kB/s    0:00:00           35.66M 100%   46.08MB/s    0:00:00 (xfr#32, to-chk=4/51)
-func/resting/run_01/utprun_01.nii
-              0   0%    0.00kB/s    0:00:00            8.16M   3%    7.78MB/s    0:00:30           28.44M  79%   26.94MB/s    0:00:00           35.66M 100%   27.74MB/s    0:00:01 (xfr#32, to-chk=4/51)
-func/resting/run_01/utprun_01.nii
-              0   0%    0.00kB/s    0:00:00           58.20M  23%   27.76MB/s    0:00:06           38.57M  15%   36.60MB/s    0:00:05          111.71M  44%   35.51MB/s    0:00:03           96.24M  38%   45.80MB/s    0:00:03          169.44M  67%   40.41MB/s    0:00:01          155.45M  62%   49.37MB/s    0:00:01          232.13M  93%   53.40MB/s    0:00:00          209.35M  83%   49.88MB/s    0:00:00          249.38M 100%   44.84MB/s    0:00:05 (xfr#33, to-chk=3/51)
-        249.38M 100%   52.45MB/s    0:00:04 (xfr#33, to-chk=3/51)
-func/resting/run_01/vdm5_fpm0000.hdr
-              0   0%    0.00kB/s    0:00:00              348 100%    0.32kB/s    0:00:01 (xfr#34, to-chk=2/51)
-func/resting/run_01/vdm5_fpm0000.img
-              0   0%    0.00kB/s    0:00:00           32.77K   2%   24.69kB/s    0:00:58            1.47M 100%    1.08MB/s    0:00:01 (xfr#35, to-chk=1/51)
-func/resting/run_01/wfmag_tprun_01.nii
-              0   0%    0.00kB/s    0:00:00          493.19K 100%   27.67MB/s    0:00:00 (xfr#36, to-chk=0/51)
-
-Number of files: 51 (reg: 37, dir: 14)
-Number of created files: 42 (reg: 36, dir: 6)
-Number of deleted files: 0
-Number of regular files transferred: 36
-Total file size: 336.52M bytes
-Total transferred file size: 336.52M bytes
-Literal data: 336.52M bytes
-Matched data: 0 bytes
-File list size: 1.36K
-File list generation time: 0.001 seconds
-File list transfer time: 0.000 seconds
-Total bytes sent: 2.42K
-Total bytes received: 336.61M
-
-sent 2.42K bytes  received 336.61M bytes  35.43M bytes/sec
-total size is 336.52M  speedup is 1.00
-func/resting/run_01/vdm5_fpm0000.hdr
-              0   0%    0.00kB/s    0:00:00              348 100%    0.24kB/s    0:00:01 (xfr#34, to-chk=2/51)
-func/resting/run_01/vdm5_fpm0000.img
-              0   0%    0.00kB/s    0:00:00           32.77K   2%   22.70kB/s    0:01:03            1.47M 100% 1016.95kB/s    0:00:01 (xfr#35, to-chk=1/51)
-func/resting/run_01/wfmag_tprun_01.nii
-              0   0%    0.00kB/s    0:00:00          493.19K 100%   15.68MB/s    0:00:00 (xfr#36, to-chk=0/51)
-
-Number of files: 51 (reg: 37, dir: 14)
-Number of created files: 42 (reg: 36, dir: 6)
-Number of deleted files: 0
-Number of regular files transferred: 36
-Total file size: 336.52M bytes
-Total transferred file size: 336.52M bytes
-Literal data: 336.52M bytes
-Matched data: 0 bytes
-File list size: 1.38K
-File list generation time: 0.087 seconds
-File list transfer time: 0.000 seconds
-Total bytes sent: 2.42K
-Total bytes received: 336.61M
-
-sent 2.42K bytes  received 336.61M bytes  32.06M bytes/sec
-total size is 336.52M  speedup is 1.00
