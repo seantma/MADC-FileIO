@@ -1,0 +1,124 @@
+
+==== Backing up subject - hlp17umm00773_03440 ====
+
+
+==== Backing up subject - hlp17umm00732_03796 ====
+
+
+==== Backing up subject - hlp17umm00775_03951 ====
+
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+FIPS mode initialized
+FIPS mode initialized
+FIPS mode initialized
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+FIPS mode initialized
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+FIPS mode initialized
+FIPS mode initialized
+This computer is property of the University of Michigan and is
+intended for authorized use only.  By logging in you are
+acknowledging you have read and accepted these terms or service.
+This computer is property of the University of Michigan and is
+intended for authorized use only.  By logging in you are
+acknowledging you have read and accepted these terms or service.
+This computer is property of the University of Michigan and is
+intended for authorized use only.  By logging in you are
+acknowledging you have read and accepted these terms or service.
+This computer is property of the University of Michigan and is
+intended for authorized use only.  By logging in you are
+acknowledging you have read and accepted these terms or service.
+This computer is property of the University of Michigan and is
+intended for authorized use only.  By logging in you are
+acknowledging you have read and accepted these terms or service.
+This computer is property of the University of Michigan and is
+intended for authorized use only.  By logging in you are
+acknowledging you have read and accepted these terms or service.
+receiving file list ... receiving file list ... receiving file list ... 
+89 files to consider
+
+89 files to consider
+
+ 100 files...100 files to consider
+
+Number of files: 89 (reg: 66, dir: 23)
+Number of created files: 0
+Number of deleted files: 0
+Number of regular files transferred: 0
+Total file size: 995.58M bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 2.29K
+File list generation time: 0.010 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 3.19K
+Total bytes received: 2.31K
+
+sent 3.19K bytes  received 2.31K bytes  3.66K bytes/sec
+total size is 995.58M  speedup is 181,212.09
+
+==== Backing up subject - hlp17umm00768_04114 ====
+
+
+
+Number of files: 89 (reg: 66, dir: 23)
+Number of files: 100 (reg: 67, dir: 33)
+Number of created files: 0
+Number of created files: 0
+Number of deleted files: 0
+Number of deleted files: 0
+Number of regular files transferred: 0
+Number of regular files transferred: 0
+Total file size: 994.61M bytes
+Total file size: 995.58M bytes
+Total transferred file size: 0 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+Matched data: 0 bytes
+File list size: 2.30K
+File list size: 2.53K
+File list generation time: 0.013 seconds
+File list generation time: 0.012 seconds
+File list transfer time: 0.000 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 3.35K
+Total bytes sent: 3.19K
+Total bytes received: 2.54K
+Total bytes received: 2.31K
+
+
+sent 3.19K bytes  received 2.31K bytes  2.20K bytes/sec
+sent 3.35K bytes  received 2.54K bytes  2.36K bytes/sec
+total size is 995.58M  speedup is 180,915.71
+total size is 994.61M  speedup is 168,863.91
+FIPS mode initialized
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+FIPS mode initialized
+This computer is property of the University of Michigan and is
+intended for authorized use only.  By logging in you are
+acknowledging you have read and accepted these terms or service.
+This computer is property of the University of Michigan and is
+intended for authorized use only.  By logging in you are
+acknowledging you have read and accepted these terms or service.
+receiving file list ... 
+89 files to consider
+
+Number of files: 89 (reg: 66, dir: 23)
+Number of created files: 0
+Number of deleted files: 0
+Number of regular files transferred: 0
+Total file size: 995.58M bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 2.31K
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 3.19K
+Total bytes received: 2.32K
+
+sent 3.19K bytes  received 2.32K bytes  3.67K bytes/sec
+total size is 995.58M  speedup is 180,653.10
