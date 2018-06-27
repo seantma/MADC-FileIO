@@ -7,7 +7,8 @@
 
 # Script to batch process T1 images for FREESURFER 6
 #
-# usage: sh ./madc_fs.sh
+# usage: sh ./madc_fs.sh 2>&1 | tee MADC_FS6_log_$(date +"%m%d_%Y").txt
+
 
 # TODO::
 # 1. add in a flag file - `1-Orig-recon-all-DONE.flag` for later
