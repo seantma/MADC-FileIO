@@ -1,0 +1,2 @@
+export PATH=/export/subjects/birb_proc/fmri_preproc/multiband_fm_ru/scripts:$PATH
+export PATH=$PATH:/export/subjects/birb_proc/fmri_preproc/scripts
