@@ -10,6 +10,9 @@ hlp17umm01482_*}/dicom/s000{03/,04/} 2>&1 \
 | tee ../Authorization/Logs/Auth_$(date +"%Y%m%d")_Log.txt
 ```
 
+#### 1017-2018
+UDS1360_03482 - Tanisha requested 10/16
+
 #### 0719-2018
 UDS1494_05012 - Ari requested 7/13
 UDS1396_03659 - Ari requested 7/13
