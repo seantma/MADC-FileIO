@@ -22,7 +22,7 @@ mkdir $WORK/ASL_pilot/$SUBJ
 cd mkdir $WORK/ASL_pilot/$SUBJ
 
 cp -p $RAW/$SUBJ/vasc_3dasl/vasc_3dasl.nii .
-cp -p $RAW/$SUBJ/t1mprage_208/t1mprage_208.nii .
+cp -p $RAW/$SUBJ/anatomy/t1mprage_208/t1mprage_208.nii .
 
 # Done
 echo "Finished: " $(SUBJ)
