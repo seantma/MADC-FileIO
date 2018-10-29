@@ -12,7 +12,7 @@ mkdir $RAW/$SUBJ/vasc_3dasl
 
 # transform dicoms
 cd $RAW/$SUBJ/dicom/s00013
-/opt/apps/dcm2niix -f vasc_3dasl .
+/opt/apps/mricrogl_lx/dcm2niix -f vasc_3dasl .
 
 # move asl files
 mv vasc_3dasl.* $RAW/$SUBJ/vasc_3dasl
