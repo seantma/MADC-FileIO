@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NPAR=1
+NPAR=4
 
 cd /nfs/fmri/RAW_nopreprocess
 
@@ -17,7 +17,8 @@ hlp17umm01462_04510
 hlp17umm01487_04682
 )
 
-echo $SUBJDIRS | xargs  /home/tehsheng/Projects/MADC-FileIO/ASL_project/asl_build.sh
+# using `xargs` and piping variable elements to it
+# inspired by https://unix.stackexchange.com/questions/471461/echo-list-array-to-xargs
+printf '%s\n' "${SUBJDIRS[@]}" | xargs -n1 --max-procs=$NPAR /home/tehsheng/Projects/MADC-FileIO/ASL_project/asl_build.sh
 
 # --max-args=1
-# -n1 --max-procs=$NPAR
