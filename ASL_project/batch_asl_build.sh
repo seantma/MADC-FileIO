@@ -17,6 +17,7 @@ hlp17umm01462_04510
 hlp17umm01487_04682
 )
 
-echo $SUBJDIRS | xargs -n1 --max-procs=$NPAR /home/tehsheng/Projects/MADC-FileIO/ASL_project/asl_build.sh
+echo $SUBJDIRS | xargs  /home/tehsheng/Projects/MADC-FileIO/ASL_project/asl_build.sh
 
 # --max-args=1
+# -n1 --max-procs=$NPAR
