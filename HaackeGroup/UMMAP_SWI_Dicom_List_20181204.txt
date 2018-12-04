@@ -1,0 +1,1985 @@
+
+==== Working on - bmh17umm01241_03276 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/bmh17umm01241_03276/raw ===
+
+bmh17umm01241_03276,t1,s00003
+s00005
+bmh17umm01241_03276,t2flair,s00004
+bmh17umm01241_03276,t2sag,s00011
+bmh17umm01241_03276,swi_B1,
+bmh17umm01241_03276,swi_B2,
+bmh17umm01241_03276,swi_B3,
+bmh17umm01241_03276,2dfq,s00013
+
+==== Working on - bmh17umm01337_03349 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/bmh17umm01337_03349/raw ===
+
+bmh17umm01337_03349,t1,s00003
+bmh17umm01337_03349,t2flair,s00004
+bmh17umm01337_03349,t2sag,s00010
+bmh17umm01337_03349,swi_B1,
+bmh17umm01337_03349,swi_B2,
+bmh17umm01337_03349,swi_B3,
+bmh17umm01337_03349,2dfq,
+
+==== Working on - bmh17umm01342_03350 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/bmh17umm01342_03350/raw ===
+
+bmh17umm01342_03350,t1,s00003
+bmh17umm01342_03350,t2flair,s00013
+s00004
+bmh17umm01342_03350,t2sag,s00010
+bmh17umm01342_03350,swi_B1,s00007
+bmh17umm01342_03350,swi_B2,s00008
+bmh17umm01342_03350,swi_B3,s00009
+bmh17umm01342_03350,2dfq,
+
+==== Working on - bmh17umm01347_03358 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/bmh17umm01347_03358/raw ===
+
+bmh17umm01347_03358,t1,s00003
+bmh17umm01347_03358,t2flair,s00004
+bmh17umm01347_03358,t2sag,s00010
+bmh17umm01347_03358,swi_B1,s00007
+bmh17umm01347_03358,swi_B2,s00008
+bmh17umm01347_03358,swi_B3,s00009
+bmh17umm01347_03358,2dfq,
+/home/tehsheng/Projects/MADC-FileIO/HaackeGroup/SWI_package.sh: line 12: cd: hlp17umm01355_03359/raw/: No such file or directory
+
+==== Working on - hlp17umm01355_03359 ====
+=== Path - /nfs/fmri/RAW_nopreprocess ===
+
+hlp17umm01355_03359,rawdata file not found!
+/home/tehsheng/Projects/MADC-FileIO/HaackeGroup/SWI_package.sh: line 12: cd: hlp17umm01343_03378/raw/: No such file or directory
+
+==== Working on - hlp17umm01343_03378 ====
+=== Path - /nfs/fmri/RAW_nopreprocess ===
+
+hlp17umm01343_03378,rawdata file not found!
+
+==== Working on - hlp17umm01338_03383 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01338_03383/raw ===
+
+hlp17umm01338_03383,t1,s00003
+hlp17umm01338_03383,t2flair,s00004
+hlp17umm01338_03383,t2sag,s00010
+hlp17umm01338_03383,swi_B1,s00007
+hlp17umm01338_03383,swi_B2,s00008
+hlp17umm01338_03383,swi_B3,s00009
+hlp17umm01338_03383,2dfq,s00012
+
+==== Working on - hlp17umm01339_03384 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01339_03384/raw ===
+
+hlp17umm01339_03384,t1,s00004
+hlp17umm01339_03384,t2flair,s00003
+hlp17umm01339_03384,t2sag,s00010
+hlp17umm01339_03384,swi_B1,s00007
+hlp17umm01339_03384,swi_B2,s00008
+hlp17umm01339_03384,swi_B3,s00009
+hlp17umm01339_03384,2dfq,s00012
+
+==== Working on - hlp17umm01359_03418 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01359_03418/raw ===
+
+hlp17umm01359_03418,t1,s00003
+hlp17umm01359_03418,t2flair,s00004
+hlp17umm01359_03418,t2sag,s00010
+hlp17umm01359_03418,swi_B1,s00007
+hlp17umm01359_03418,swi_B2,s00008
+hlp17umm01359_03418,swi_B3,s00009
+hlp17umm01359_03418,2dfq,s00011
+
+==== Working on - hlp17umm01367_03423 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01367_03423/raw ===
+
+hlp17umm01367_03423,t1,s00003
+hlp17umm01367_03423,t2flair,s00004
+s00007
+hlp17umm01367_03423,t2sag,s00011
+hlp17umm01367_03423,swi_B1,s00008
+hlp17umm01367_03423,swi_B2,s00009
+hlp17umm01367_03423,swi_B3,s00010
+hlp17umm01367_03423,2dfq,s00013
+
+==== Working on - hlp17umm01366_03424 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01366_03424/raw ===
+
+hlp17umm01366_03424,t1,s00003
+hlp17umm01366_03424,t2flair,s00004
+hlp17umm01366_03424,t2sag,s00010
+hlp17umm01366_03424,swi_B1,s00007
+hlp17umm01366_03424,swi_B2,s00008
+hlp17umm01366_03424,swi_B3,s00009
+hlp17umm01366_03424,2dfq,s00012
+
+==== Working on - hlp17umm00773_03440 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm00773_03440/raw ===
+
+hlp17umm00773_03440,t1,s00003
+hlp17umm00773_03440,t2flair,s00004
+hlp17umm00773_03440,t2sag,s00012
+hlp17umm00773_03440,swi_B1,s00009
+hlp17umm00773_03440,swi_B2,s00010
+hlp17umm00773_03440,swi_B3,s00011
+hlp17umm00773_03440,2dfq,s00014
+
+==== Working on - hlp17umm01346_03445 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01346_03445/raw ===
+
+hlp17umm01346_03445,t1,s00003
+hlp17umm01346_03445,t2flair,s00004
+hlp17umm01346_03445,t2sag,s00012
+hlp17umm01346_03445,swi_B1,s00009
+hlp17umm01346_03445,swi_B2,s00010
+hlp17umm01346_03445,swi_B3,s00011
+hlp17umm01346_03445,2dfq,s00015
+
+==== Working on - hlp17umm01364_03481 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01364_03481/raw ===
+
+hlp17umm01364_03481,t1,s00003
+hlp17umm01364_03481,t2flair,s00004
+hlp17umm01364_03481,t2sag,s00012
+hlp17umm01364_03481,swi_B1,s00009
+hlp17umm01364_03481,swi_B2,s00010
+hlp17umm01364_03481,swi_B3,s00011
+hlp17umm01364_03481,2dfq,s00014
+
+==== Working on - hlp17umm01360_03482 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01360_03482/raw ===
+
+hlp17umm01360_03482,t1,s00003
+hlp17umm01360_03482,t2flair,s00004
+hlp17umm01360_03482,t2sag,s00012
+hlp17umm01360_03482,swi_B1,s00009
+hlp17umm01360_03482,swi_B2,s00010
+hlp17umm01360_03482,swi_B3,s00011
+hlp17umm01360_03482,2dfq,s00014
+
+==== Working on - hlp17umm01341_03495 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01341_03495/raw ===
+
+hlp17umm01341_03495,t1,s00003
+hlp17umm01341_03495,t2flair,s00004
+hlp17umm01341_03495,t2sag,s00010
+hlp17umm01341_03495,swi_B1,s00007
+hlp17umm01341_03495,swi_B2,s00008
+hlp17umm01341_03495,swi_B3,s00009
+hlp17umm01341_03495,2dfq,s00013
+
+==== Working on - hlp17umm01362_03521 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01362_03521/raw ===
+
+hlp17umm01362_03521,t1,s00003
+hlp17umm01362_03521,t2flair,s00004
+hlp17umm01362_03521,t2sag,s00012
+hlp17umm01362_03521,swi_B1,s00009
+hlp17umm01362_03521,swi_B2,s00010
+hlp17umm01362_03521,swi_B3,s00011
+hlp17umm01362_03521,2dfq,s00014
+
+==== Working on - hlp17umm01378_03526 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01378_03526/raw ===
+
+hlp17umm01378_03526,t1,s00003
+hlp17umm01378_03526,t2flair,s00004
+hlp17umm01378_03526,t2sag,s00012
+hlp17umm01378_03526,swi_B1,
+hlp17umm01378_03526,swi_B2,
+hlp17umm01378_03526,swi_B3,
+hlp17umm01378_03526,2dfq,
+
+==== Working on - hlp17umm01368_03527 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01368_03527/raw ===
+
+hlp17umm01368_03527,t1,s00003
+hlp17umm01368_03527,t2flair,s00004
+hlp17umm01368_03527,t2sag,s00012
+hlp17umm01368_03527,swi_B1,
+hlp17umm01368_03527,swi_B2,
+hlp17umm01368_03527,swi_B3,
+hlp17umm01368_03527,2dfq,
+
+==== Working on - hlp17umm01379_03535 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01379_03535/raw ===
+
+hlp17umm01379_03535,t1,s00003
+hlp17umm01379_03535,t2flair,s00004
+hlp17umm01379_03535,t2sag,s00012
+hlp17umm01379_03535,swi_B1,s00009
+hlp17umm01379_03535,swi_B2,s00010
+hlp17umm01379_03535,swi_B3,s00011
+hlp17umm01379_03535,2dfq,s00014
+
+==== Working on - hlp17umm01380_03536 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01380_03536/raw ===
+
+hlp17umm01380_03536,t1,s00003
+hlp17umm01380_03536,t2flair,s00004
+hlp17umm01380_03536,t2sag,s00012
+hlp17umm01380_03536,swi_B1,s00009
+hlp17umm01380_03536,swi_B2,s00010
+hlp17umm01380_03536,swi_B3,s00011
+hlp17umm01380_03536,2dfq,s00014
+
+==== Working on - hlp17umm01353_03556 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01353_03556/raw ===
+
+hlp17umm01353_03556,t1,s00003
+hlp17umm01353_03556,t2flair,s00004
+hlp17umm01353_03556,t2sag,s00012
+hlp17umm01353_03556,swi_B1,s00009
+hlp17umm01353_03556,swi_B2,s00010
+hlp17umm01353_03556,swi_B3,s00011
+hlp17umm01353_03556,2dfq,s00014
+
+==== Working on - hlp17umm01357_03575 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01357_03575/raw ===
+
+hlp17umm01357_03575,t1,s00003
+hlp17umm01357_03575,t2flair,s00004
+hlp17umm01357_03575,t2sag,s00012
+hlp17umm01357_03575,swi_B1,s00009
+hlp17umm01357_03575,swi_B2,s00010
+hlp17umm01357_03575,swi_B3,s00011
+hlp17umm01357_03575,2dfq,
+
+==== Working on - hlp17umm01358_03576 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01358_03576/raw ===
+
+hlp17umm01358_03576,t1,s00003
+hlp17umm01358_03576,t2flair,s00004
+hlp17umm01358_03576,t2sag,s00012
+hlp17umm01358_03576,swi_B1,s00009
+hlp17umm01358_03576,swi_B2,s00010
+hlp17umm01358_03576,swi_B3,s00011
+hlp17umm01358_03576,2dfq,
+
+==== Working on - hlp17umm01384_03580 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01384_03580/raw ===
+
+hlp17umm01384_03580,t1,s00003
+hlp17umm01384_03580,t2flair,s00004
+hlp17umm01384_03580,t2sag,s00012
+hlp17umm01384_03580,swi_B1,s00009
+hlp17umm01384_03580,swi_B2,s00010
+hlp17umm01384_03580,swi_B3,s00011
+hlp17umm01384_03580,2dfq,s00014
+
+==== Working on - hlp17umm01395_03624 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01395_03624/raw ===
+
+hlp17umm01395_03624,t1,s00003
+hlp17umm01395_03624,t2flair,s00004
+hlp17umm01395_03624,t2sag,s00012
+hlp17umm01395_03624,swi_B1,s00009
+hlp17umm01395_03624,swi_B2,s00010
+hlp17umm01395_03624,swi_B3,s00011
+hlp17umm01395_03624,2dfq,s00014
+
+==== Working on - hlp17umm01372_03625 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01372_03625/raw ===
+
+hlp17umm01372_03625,t1,s00003
+hlp17umm01372_03625,t2flair,s00004
+hlp17umm01372_03625,t2sag,s00012
+hlp17umm01372_03625,swi_B1,s00009
+hlp17umm01372_03625,swi_B2,s00010
+hlp17umm01372_03625,swi_B3,s00011
+hlp17umm01372_03625,2dfq,s00014
+
+==== Working on - hlp17umm01382_03637 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01382_03637/raw ===
+
+hlp17umm01382_03637,t1,s00003
+hlp17umm01382_03637,t2flair,s00004
+hlp17umm01382_03637,t2sag,s00013
+hlp17umm01382_03637,swi_B1,s00010
+hlp17umm01382_03637,swi_B2,s00011
+hlp17umm01382_03637,swi_B3,s00012
+hlp17umm01382_03637,2dfq,s00015
+
+==== Working on - hlp17umm01374_03638 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01374_03638/raw ===
+
+hlp17umm01374_03638,t1,s00003
+hlp17umm01374_03638,t2flair,s00004
+hlp17umm01374_03638,t2sag,s00010
+hlp17umm01374_03638,swi_B1,s00007
+hlp17umm01374_03638,swi_B2,s00008
+hlp17umm01374_03638,swi_B3,s00009
+hlp17umm01374_03638,2dfq,s00012
+
+==== Working on - hlp17umm01387_03659 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01387_03659/raw ===
+
+hlp17umm01387_03659,t1,s00003
+hlp17umm01387_03659,t2flair,s00004
+hlp17umm01387_03659,t2sag,s00010
+hlp17umm01387_03659,swi_B1,s00007
+hlp17umm01387_03659,swi_B2,s00008
+hlp17umm01387_03659,swi_B3,s00009
+hlp17umm01387_03659,2dfq,
+
+==== Working on - hlp17umm01388_03660 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01388_03660/raw ===
+
+hlp17umm01388_03660,t1,s00003
+hlp17umm01388_03660,t2flair,s00004
+hlp17umm01388_03660,t2sag,s00012
+hlp17umm01388_03660,swi_B1,s00009
+hlp17umm01388_03660,swi_B2,s00010
+hlp17umm01388_03660,swi_B3,s00011
+hlp17umm01388_03660,2dfq,s00014
+
+==== Working on - hlp17umm01294_03678 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01294_03678/raw ===
+
+hlp17umm01294_03678,t1,s00003
+hlp17umm01294_03678,t2flair,s00004
+hlp17umm01294_03678,t2sag,s00012
+hlp17umm01294_03678,swi_B1,s00009
+hlp17umm01294_03678,swi_B2,s00010
+hlp17umm01294_03678,swi_B3,s00011
+hlp17umm01294_03678,2dfq,s00014
+
+==== Working on - hlp17umm01053_03687 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01053_03687/raw ===
+
+hlp17umm01053_03687,t1,s00003
+hlp17umm01053_03687,t2flair,s00004
+hlp17umm01053_03687,t2sag,s00010
+hlp17umm01053_03687,swi_B1,s00007
+hlp17umm01053_03687,swi_B2,s00008
+hlp17umm01053_03687,swi_B3,s00009
+hlp17umm01053_03687,2dfq,s00012
+
+==== Working on - hlp17umm01174_03688 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01174_03688/raw ===
+
+hlp17umm01174_03688,t1,s00003
+hlp17umm01174_03688,t2flair,s00004
+hlp17umm01174_03688,t2sag,s00012
+hlp17umm01174_03688,swi_B1,s00009
+hlp17umm01174_03688,swi_B2,s00010
+hlp17umm01174_03688,swi_B3,s00011
+hlp17umm01174_03688,2dfq,s00014
+
+==== Working on - hlp17umm01396_03695 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01396_03695/raw ===
+
+hlp17umm01396_03695,t1,s00003
+hlp17umm01396_03695,t2flair,s00004
+hlp17umm01396_03695,t2sag,s00012
+hlp17umm01396_03695,swi_B1,s00009
+hlp17umm01396_03695,swi_B2,s00010
+hlp17umm01396_03695,swi_B3,s00011
+hlp17umm01396_03695,2dfq,s00014
+
+==== Working on - hlp17umm01389_03696 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01389_03696/raw ===
+
+hlp17umm01389_03696,t1,s00003
+hlp17umm01389_03696,t2flair,s00004
+hlp17umm01389_03696,t2sag,s00012
+hlp17umm01389_03696,swi_B1,s00009
+hlp17umm01389_03696,swi_B2,s00010
+hlp17umm01389_03696,swi_B3,s00011
+hlp17umm01389_03696,2dfq,s00014
+
+==== Working on - hlp17umm01260_03704 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01260_03704/raw ===
+
+hlp17umm01260_03704,t1,s00003
+hlp17umm01260_03704,t2flair,s00004
+hlp17umm01260_03704,t2sag,s00012
+hlp17umm01260_03704,swi_B1,s00009
+hlp17umm01260_03704,swi_B2,s00010
+hlp17umm01260_03704,swi_B3,s00011
+hlp17umm01260_03704,2dfq,s00014
+
+==== Working on - hlp17umm01250_03705 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01250_03705/raw ===
+
+hlp17umm01250_03705,t1,s00003
+hlp17umm01250_03705,t2flair,s00004
+hlp17umm01250_03705,t2sag,s00012
+hlp17umm01250_03705,swi_B1,s00009
+hlp17umm01250_03705,swi_B2,s00010
+hlp17umm01250_03705,swi_B3,s00011
+hlp17umm01250_03705,2dfq,s00014
+
+==== Working on - hlp17umm01398_03733 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01398_03733/raw ===
+
+hlp17umm01398_03733,t1,s00003
+hlp17umm01398_03733,t2flair,s00004
+hlp17umm01398_03733,t2sag,s00012
+hlp17umm01398_03733,swi_B1,s00009
+hlp17umm01398_03733,swi_B2,s00010
+hlp17umm01398_03733,swi_B3,s00011
+hlp17umm01398_03733,2dfq,s00014
+
+==== Working on - hlp17umm01401_03757 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01401_03757/raw ===
+
+hlp17umm01401_03757,t1,s00003
+hlp17umm01401_03757,t2flair,s00004
+hlp17umm01401_03757,t2sag,s00012
+hlp17umm01401_03757,swi_B1,s00009
+hlp17umm01401_03757,swi_B2,s00010
+hlp17umm01401_03757,swi_B3,s00011
+hlp17umm01401_03757,2dfq,s00014
+
+==== Working on - hlp17umm01399_03758 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01399_03758/raw ===
+
+hlp17umm01399_03758,t1,s00003
+hlp17umm01399_03758,t2flair,s00004
+hlp17umm01399_03758,t2sag,s00013
+hlp17umm01399_03758,swi_B1,s00010
+hlp17umm01399_03758,swi_B2,s00011
+hlp17umm01399_03758,swi_B3,s00012
+hlp17umm01399_03758,2dfq,s00015
+
+==== Working on - hlp17umm01402_03768 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01402_03768/raw ===
+
+hlp17umm01402_03768,t1,s00003
+hlp17umm01402_03768,t2flair,s00004
+hlp17umm01402_03768,t2sag,s00014
+hlp17umm01402_03768,swi_B1,s00009
+s00011
+hlp17umm01402_03768,swi_B2,s00010
+s00012
+hlp17umm01402_03768,swi_B3,s00013
+hlp17umm01402_03768,2dfq,s00016
+
+==== Working on - hlp17umm01405_03782 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01405_03782/raw ===
+
+hlp17umm01405_03782,t1,s00004
+hlp17umm01405_03782,t2flair,s00003
+hlp17umm01405_03782,t2sag,s00012
+hlp17umm01405_03782,swi_B1,s00009
+hlp17umm01405_03782,swi_B2,s00010
+hlp17umm01405_03782,swi_B3,s00011
+hlp17umm01405_03782,2dfq,s00014
+
+==== Working on - hlp17umm01220_03783 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01220_03783/raw ===
+
+hlp17umm01220_03783,t1,s00003
+hlp17umm01220_03783,t2flair,s00004
+hlp17umm01220_03783,t2sag,s00012
+hlp17umm01220_03783,swi_B1,s00009
+hlp17umm01220_03783,swi_B2,s00010
+hlp17umm01220_03783,swi_B3,s00011
+hlp17umm01220_03783,2dfq,s00014
+
+==== Working on - hlp17umm01299_03795 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01299_03795/raw ===
+
+hlp17umm01299_03795,t1,s00003
+hlp17umm01299_03795,t2flair,s00004
+hlp17umm01299_03795,t2sag,s00012
+hlp17umm01299_03795,swi_B1,s00009
+hlp17umm01299_03795,swi_B2,s00010
+hlp17umm01299_03795,swi_B3,s00011
+hlp17umm01299_03795,2dfq,s00014
+
+==== Working on - hlp17umm00732_03796 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm00732_03796/raw ===
+
+hlp17umm00732_03796,t1,s00003
+hlp17umm00732_03796,t2flair,s00017
+s00004
+hlp17umm00732_03796,t2sag,s00012
+hlp17umm00732_03796,swi_B1,s00009
+hlp17umm00732_03796,swi_B2,s00010
+hlp17umm00732_03796,swi_B3,s00011
+hlp17umm00732_03796,2dfq,s00014
+
+==== Working on - hlp17umm01412_03837 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01412_03837/raw ===
+
+hlp17umm01412_03837,t1,s00003
+hlp17umm01412_03837,t2flair,s00004
+hlp17umm01412_03837,t2sag,s00012
+hlp17umm01412_03837,swi_B1,s00009
+hlp17umm01412_03837,swi_B2,s00010
+hlp17umm01412_03837,swi_B3,s00011
+hlp17umm01412_03837,2dfq,s00014
+
+==== Working on - hlp17umm01356_03853 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01356_03853/raw ===
+
+hlp17umm01356_03853,t1,s00003
+hlp17umm01356_03853,t2flair,s00004
+hlp17umm01356_03853,t2sag,s00012
+hlp17umm01356_03853,swi_B1,s00009
+hlp17umm01356_03853,swi_B2,s00010
+hlp17umm01356_03853,swi_B3,s00011
+hlp17umm01356_03853,2dfq,s00014
+
+==== Working on - hlp17umm01263_03874 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01263_03874/raw ===
+
+hlp17umm01263_03874,t1,s00003
+hlp17umm01263_03874,t2flair,s00004
+hlp17umm01263_03874,t2sag,s00012
+hlp17umm01263_03874,swi_B1,s00009
+hlp17umm01263_03874,swi_B2,s00010
+hlp17umm01263_03874,swi_B3,s00011
+hlp17umm01263_03874,2dfq,s00014
+s00015
+
+==== Working on - hlp17umm01403_03886 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01403_03886/raw ===
+
+hlp17umm01403_03886,t1,s00003
+hlp17umm01403_03886,t2flair,s00004
+hlp17umm01403_03886,t2sag,s00012
+hlp17umm01403_03886,swi_B1,s00009
+hlp17umm01403_03886,swi_B2,s00010
+hlp17umm01403_03886,swi_B3,s00011
+hlp17umm01403_03886,2dfq,s00014
+s00015
+
+==== Working on - hlp17umm01404_03887 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01404_03887/raw ===
+
+hlp17umm01404_03887,t1,s00003
+hlp17umm01404_03887,t2flair,s00004
+hlp17umm01404_03887,t2sag,s00012
+hlp17umm01404_03887,swi_B1,s00009
+hlp17umm01404_03887,swi_B2,s00010
+hlp17umm01404_03887,swi_B3,s00011
+hlp17umm01404_03887,2dfq,s00014
+
+==== Working on - hlp17umm01407_03900 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01407_03900/raw ===
+
+hlp17umm01407_03900,t1,s00003
+hlp17umm01407_03900,t2flair,s00004
+hlp17umm01407_03900,t2sag,s00012
+hlp17umm01407_03900,swi_B1,s00009
+hlp17umm01407_03900,swi_B2,s00010
+hlp17umm01407_03900,swi_B3,s00011
+hlp17umm01407_03900,2dfq,s00014
+
+==== Working on - hlp17umm01408_03905 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01408_03905/raw ===
+
+hlp17umm01408_03905,t1,s00003
+hlp17umm01408_03905,t2flair,s00004
+hlp17umm01408_03905,t2sag,s00012
+hlp17umm01408_03905,swi_B1,s00009
+hlp17umm01408_03905,swi_B2,s00010
+hlp17umm01408_03905,swi_B3,s00011
+hlp17umm01408_03905,2dfq,s00015
+s00014
+
+==== Working on - hlp17umm01268_03906 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01268_03906/raw ===
+
+hlp17umm01268_03906,t1,s00003
+hlp17umm01268_03906,t2flair,s00004
+hlp17umm01268_03906,t2sag,s00012
+hlp17umm01268_03906,swi_B1,s00009
+hlp17umm01268_03906,swi_B2,s00010
+hlp17umm01268_03906,swi_B3,s00011
+hlp17umm01268_03906,2dfq,s00014
+
+==== Working on - hlp17umm01409_03919 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01409_03919/raw ===
+
+hlp17umm01409_03919,t1,s00003
+hlp17umm01409_03919,t2flair,s00004
+hlp17umm01409_03919,t2sag,s00012
+hlp17umm01409_03919,swi_B1,s00009
+hlp17umm01409_03919,swi_B2,s00010
+hlp17umm01409_03919,swi_B3,s00011
+hlp17umm01409_03919,2dfq,s00014
+
+==== Working on - hlp17umm01410_03920 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01410_03920/raw ===
+
+hlp17umm01410_03920,t1,s00003
+hlp17umm01410_03920,t2flair,s00004
+hlp17umm01410_03920,t2sag,s00012
+hlp17umm01410_03920,swi_B1,s00009
+hlp17umm01410_03920,swi_B2,s00010
+hlp17umm01410_03920,swi_B3,s00011
+hlp17umm01410_03920,2dfq,s00014
+
+==== Working on - hlp17umm01377_03937 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01377_03937/raw ===
+
+hlp17umm01377_03937,t1,s00003
+hlp17umm01377_03937,t2flair,s00004
+hlp17umm01377_03937,t2sag,s00012
+hlp17umm01377_03937,swi_B1,s00009
+hlp17umm01377_03937,swi_B2,s00010
+hlp17umm01377_03937,swi_B3,s00011
+hlp17umm01377_03937,2dfq,s00014
+
+==== Working on - hlp17umm01276_03938 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01276_03938/raw ===
+
+hlp17umm01276_03938,t1,s00003
+hlp17umm01276_03938,t2flair,s00004
+hlp17umm01276_03938,t2sag,s00012
+hlp17umm01276_03938,swi_B1,s00009
+hlp17umm01276_03938,swi_B2,s00010
+hlp17umm01276_03938,swi_B3,s00011
+hlp17umm01276_03938,2dfq,s00014
+
+==== Working on - hlp17umm01228_03950 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01228_03950/raw ===
+
+hlp17umm01228_03950,t1,s00003
+hlp17umm01228_03950,t2flair,s00004
+hlp17umm01228_03950,t2sag,s00012
+hlp17umm01228_03950,swi_B1,s00009
+hlp17umm01228_03950,swi_B2,s00010
+hlp17umm01228_03950,swi_B3,s00011
+hlp17umm01228_03950,2dfq,s00014
+
+==== Working on - hlp17umm00775_03951 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm00775_03951/raw ===
+
+hlp17umm00775_03951,t1,s00003
+hlp17umm00775_03951,t2flair,s00004
+hlp17umm00775_03951,t2sag,s00012
+hlp17umm00775_03951,swi_B1,s00009
+hlp17umm00775_03951,swi_B2,s00010
+hlp17umm00775_03951,swi_B3,s00011
+hlp17umm00775_03951,2dfq,s00014
+
+==== Working on - hlp17umm01393_03970 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01393_03970/raw ===
+
+hlp17umm01393_03970,t1,s00003
+hlp17umm01393_03970,t2flair,s00004
+hlp17umm01393_03970,t2sag,s00012
+hlp17umm01393_03970,swi_B1,s00009
+hlp17umm01393_03970,swi_B2,s00010
+hlp17umm01393_03970,swi_B3,s00011
+hlp17umm01393_03970,2dfq,
+
+==== Working on - hlp17umm01394_03971 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01394_03971/raw ===
+
+hlp17umm01394_03971,t1,s00003
+hlp17umm01394_03971,t2flair,s00004
+hlp17umm01394_03971,t2sag,s00012
+hlp17umm01394_03971,swi_B1,s00009
+hlp17umm01394_03971,swi_B2,s00010
+hlp17umm01394_03971,swi_B3,s00011
+hlp17umm01394_03971,2dfq,s00014
+
+==== Working on - hlp17umm01422_03974 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01422_03974/raw ===
+
+hlp17umm01422_03974,t1,s00003
+hlp17umm01422_03974,t2flair,s00004
+hlp17umm01422_03974,t2sag,s00012
+hlp17umm01422_03974,swi_B1,s00009
+hlp17umm01422_03974,swi_B2,s00010
+hlp17umm01422_03974,swi_B3,s00011
+hlp17umm01422_03974,2dfq,s00014
+s00017
+
+==== Working on - hlp17umm01421_03975 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01421_03975/raw ===
+
+hlp17umm01421_03975,t1,s00003
+hlp17umm01421_03975,t2flair,s00004
+hlp17umm01421_03975,t2sag,s00010
+hlp17umm01421_03975,swi_B1,s00007
+hlp17umm01421_03975,swi_B2,s00008
+hlp17umm01421_03975,swi_B3,s00009
+hlp17umm01421_03975,2dfq,s00012
+
+==== Working on - hlp17umm01425_03985 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01425_03985/raw ===
+
+hlp17umm01425_03985,t1,s00003
+hlp17umm01425_03985,t2flair,s00004
+hlp17umm01425_03985,t2sag,s00012
+hlp17umm01425_03985,swi_B1,s00009
+hlp17umm01425_03985,swi_B2,s00010
+hlp17umm01425_03985,swi_B3,s00011
+hlp17umm01425_03985,2dfq,s00014
+
+==== Working on - hlp17umm01307_03999 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01307_03999/raw ===
+
+hlp17umm01307_03999,t1,s00003
+hlp17umm01307_03999,t2flair,s00004
+hlp17umm01307_03999,t2sag,s00012
+hlp17umm01307_03999,swi_B1,s00009
+hlp17umm01307_03999,swi_B2,s00010
+hlp17umm01307_03999,swi_B3,s00011
+hlp17umm01307_03999,2dfq,s00015
+s00014
+
+==== Working on - hlp17umm01424_04014 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01424_04014/raw ===
+
+hlp17umm01424_04014,t1,s00003
+hlp17umm01424_04014,t2flair,s00004
+hlp17umm01424_04014,t2sag,s00012
+hlp17umm01424_04014,swi_B1,s00009
+hlp17umm01424_04014,swi_B2,s00010
+hlp17umm01424_04014,swi_B3,s00011
+hlp17umm01424_04014,2dfq,s00014
+
+==== Working on - hlp17umm01423_04015 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01423_04015/raw ===
+
+hlp17umm01423_04015,t1,s00003
+hlp17umm01423_04015,t2flair,s00004
+hlp17umm01423_04015,t2sag,
+hlp17umm01423_04015,swi_B1,s00007
+hlp17umm01423_04015,swi_B2,s00008
+hlp17umm01423_04015,swi_B3,s00009
+hlp17umm01423_04015,2dfq,s00010
+
+==== Working on - hlp17umm01348_04030 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01348_04030/raw ===
+
+hlp17umm01348_04030,t1,s00003
+hlp17umm01348_04030,t2flair,s00004
+hlp17umm01348_04030,t2sag,s00012
+hlp17umm01348_04030,swi_B1,s00009
+hlp17umm01348_04030,swi_B2,s00010
+hlp17umm01348_04030,swi_B3,s00011
+hlp17umm01348_04030,2dfq,s00014
+
+==== Working on - hlp17umm01259_04039 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01259_04039/raw ===
+
+hlp17umm01259_04039,t1,s00003
+hlp17umm01259_04039,t2flair,s00004
+hlp17umm01259_04039,t2sag,s00012
+hlp17umm01259_04039,swi_B1,s00009
+hlp17umm01259_04039,swi_B2,s00010
+hlp17umm01259_04039,swi_B3,s00011
+hlp17umm01259_04039,2dfq,s00014
+
+==== Working on - hlp17umm01271_04040 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01271_04040/raw ===
+
+hlp17umm01271_04040,t1,s00003
+hlp17umm01271_04040,t2flair,s00004
+hlp17umm01271_04040,t2sag,s00012
+hlp17umm01271_04040,swi_B1,s00009
+hlp17umm01271_04040,swi_B2,s00010
+hlp17umm01271_04040,swi_B3,s00011
+hlp17umm01271_04040,2dfq,s00014
+
+==== Working on - hlp17umm01241_04045 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01241_04045/raw ===
+
+hlp17umm01241_04045,t1,s00003
+hlp17umm01241_04045,t2flair,s00004
+hlp17umm01241_04045,t2sag,s00012
+hlp17umm01241_04045,swi_B1,s00009
+hlp17umm01241_04045,swi_B2,s00010
+hlp17umm01241_04045,swi_B3,s00011
+hlp17umm01241_04045,2dfq,s00014
+
+==== Working on - hlp17umm01413_04046 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01413_04046/raw ===
+
+hlp17umm01413_04046,t1,s00003
+hlp17umm01413_04046,t2flair,s00004
+hlp17umm01413_04046,t2sag,s00012
+hlp17umm01413_04046,swi_B1,s00009
+hlp17umm01413_04046,swi_B2,s00010
+hlp17umm01413_04046,swi_B3,s00011
+hlp17umm01413_04046,2dfq,s00014
+
+==== Working on - hlp17umm00833_04068 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm00833_04068/raw ===
+
+hlp17umm00833_04068,t1,s00003
+hlp17umm00833_04068,t2flair,s00004
+hlp17umm00833_04068,t2sag,s00012
+hlp17umm00833_04068,swi_B1,s00009
+hlp17umm00833_04068,swi_B2,s00010
+hlp17umm00833_04068,swi_B3,s00011
+hlp17umm00833_04068,2dfq,s00016
+
+==== Working on - hlp17umm01179_04097 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01179_04097/raw ===
+
+hlp17umm01179_04097,t1,s00003
+hlp17umm01179_04097,t2flair,s00004
+hlp17umm01179_04097,t2sag,s00012
+hlp17umm01179_04097,swi_B1,s00009
+hlp17umm01179_04097,swi_B2,s00010
+hlp17umm01179_04097,swi_B3,s00011
+hlp17umm01179_04097,2dfq,s00014
+
+==== Working on - hlp17umm00768_04114 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm00768_04114/raw ===
+
+hlp17umm00768_04114,t1,s00003
+hlp17umm00768_04114,t2flair,s00004
+hlp17umm00768_04114,t2sag,s00012
+hlp17umm00768_04114,swi_B1,s00009
+hlp17umm00768_04114,swi_B2,s00010
+hlp17umm00768_04114,swi_B3,s00011
+hlp17umm00768_04114,2dfq,s00014
+
+==== Working on - hlp17umm01418_04115 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01418_04115/raw ===
+
+hlp17umm01418_04115,t1,s00003
+hlp17umm01418_04115,t2flair,s00004
+hlp17umm01418_04115,t2sag,s00010
+hlp17umm01418_04115,swi_B1,s00007
+hlp17umm01418_04115,swi_B2,s00008
+hlp17umm01418_04115,swi_B3,s00009
+hlp17umm01418_04115,2dfq,s00012
+
+==== Working on - hlp17umm01426_04148 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01426_04148/raw ===
+
+hlp17umm01426_04148,t1,s00003
+hlp17umm01426_04148,t2flair,s00004
+hlp17umm01426_04148,t2sag,s00012
+hlp17umm01426_04148,swi_B1,s00009
+hlp17umm01426_04148,swi_B2,s00010
+hlp17umm01426_04148,swi_B3,s00011
+hlp17umm01426_04148,2dfq,s00014
+
+==== Working on - hlp17umm01151_04164 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01151_04164/raw ===
+
+hlp17umm01151_04164,t1,s00003
+hlp17umm01151_04164,t2flair,s00004
+hlp17umm01151_04164,t2sag,s00012
+hlp17umm01151_04164,swi_B1,s00009
+hlp17umm01151_04164,swi_B2,s00010
+hlp17umm01151_04164,swi_B3,s00011
+hlp17umm01151_04164,2dfq,s00014
+
+==== Working on - hlp17umm01243_04201 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01243_04201/raw ===
+
+hlp17umm01243_04201,t1,s00003
+hlp17umm01243_04201,t2flair,s00004
+hlp17umm01243_04201,t2sag,s00012
+hlp17umm01243_04201,swi_B1,s00009
+hlp17umm01243_04201,swi_B2,s00010
+hlp17umm01243_04201,swi_B3,s00011
+hlp17umm01243_04201,2dfq,s00014
+
+==== Working on - hlp17umm01066_04229 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01066_04229/raw ===
+
+hlp17umm01066_04229,t1,s00003
+hlp17umm01066_04229,t2flair,s00004
+hlp17umm01066_04229,t2sag,s00012
+hlp17umm01066_04229,swi_B1,s00009
+hlp17umm01066_04229,swi_B2,s00010
+hlp17umm01066_04229,swi_B3,s00011
+hlp17umm01066_04229,2dfq,s00014
+
+==== Working on - hlp17umm01254_04239 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01254_04239/raw ===
+
+hlp17umm01254_04239,t1,s00003
+hlp17umm01254_04239,t2flair,s00004
+hlp17umm01254_04239,t2sag,s00012
+hlp17umm01254_04239,swi_B1,s00009
+hlp17umm01254_04239,swi_B2,s00010
+hlp17umm01254_04239,swi_B3,s00011
+hlp17umm01254_04239,2dfq,s00014
+
+==== Working on - hlp17umm01434_04273 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01434_04273/raw ===
+
+hlp17umm01434_04273,t1,s00003
+hlp17umm01434_04273,t2flair,s00004
+hlp17umm01434_04273,t2sag,s00012
+hlp17umm01434_04273,swi_B1,s00009
+hlp17umm01434_04273,swi_B2,s00010
+hlp17umm01434_04273,swi_B3,s00011
+hlp17umm01434_04273,2dfq,s00014
+
+==== Working on - hlp17umm01415_04274 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01415_04274/raw ===
+
+hlp17umm01415_04274,t1,s00003
+hlp17umm01415_04274,t2flair,s00004
+hlp17umm01415_04274,t2sag,s00012
+hlp17umm01415_04274,swi_B1,s00009
+hlp17umm01415_04274,swi_B2,s00010
+hlp17umm01415_04274,swi_B3,s00011
+hlp17umm01415_04274,2dfq,s00014
+
+==== Working on - hlp17umm01437_04291 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01437_04291/raw ===
+
+hlp17umm01437_04291,t1,s00003
+hlp17umm01437_04291,t2flair,s00004
+hlp17umm01437_04291,t2sag,s00012
+hlp17umm01437_04291,swi_B1,s00009
+hlp17umm01437_04291,swi_B2,s00010
+hlp17umm01437_04291,swi_B3,s00011
+hlp17umm01437_04291,2dfq,s00014
+
+==== Working on - hlp17umm01420_04292 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01420_04292/raw ===
+
+hlp17umm01420_04292,t1,s00003
+hlp17umm01420_04292,t2flair,s00004
+hlp17umm01420_04292,t2sag,s00012
+hlp17umm01420_04292,swi_B1,s00009
+hlp17umm01420_04292,swi_B2,s00010
+hlp17umm01420_04292,swi_B3,s00011
+hlp17umm01420_04292,2dfq,s00014
+
+==== Working on - hlp17umm01438_04324 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01438_04324/raw ===
+
+hlp17umm01438_04324,t1,s00003
+hlp17umm01438_04324,t2flair,s00004
+hlp17umm01438_04324,t2sag,s00012
+hlp17umm01438_04324,swi_B1,s00009
+hlp17umm01438_04324,swi_B2,s00011
+hlp17umm01438_04324,swi_B3,s00010
+hlp17umm01438_04324,2dfq,s00014
+
+==== Working on - hlp17umm01314_04365 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01314_04365/raw ===
+
+hlp17umm01314_04365,t1,s00003
+hlp17umm01314_04365,t2flair,s00004
+hlp17umm01314_04365,t2sag,s00012
+hlp17umm01314_04365,swi_B1,s00009
+hlp17umm01314_04365,swi_B2,s00010
+hlp17umm01314_04365,swi_B3,s00011
+hlp17umm01314_04365,2dfq,
+
+==== Working on - hlp17umm01315_04366 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01315_04366/raw ===
+
+hlp17umm01315_04366,t1,s00003
+hlp17umm01315_04366,t2flair,s00004
+hlp17umm01315_04366,t2sag,s00012
+hlp17umm01315_04366,swi_B1,s00009
+hlp17umm01315_04366,swi_B2,s00010
+hlp17umm01315_04366,swi_B3,s00011
+hlp17umm01315_04366,2dfq,s00014
+
+==== Working on - hlp17umm01430_04391 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01430_04391/raw ===
+
+hlp17umm01430_04391,t1,s00003
+hlp17umm01430_04391,t2flair,s00004
+hlp17umm01430_04391,t2sag,s00012
+hlp17umm01430_04391,swi_B1,s00009
+hlp17umm01430_04391,swi_B2,s00010
+hlp17umm01430_04391,swi_B3,s00011
+hlp17umm01430_04391,2dfq,s00014
+
+==== Working on - hlp17umm01448_04434 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01448_04434/raw ===
+
+hlp17umm01448_04434,t1,s00003
+hlp17umm01448_04434,t2flair,s00004
+hlp17umm01448_04434,t2sag,s00012
+hlp17umm01448_04434,swi_B1,s00009
+hlp17umm01448_04434,swi_B2,s00010
+hlp17umm01448_04434,swi_B3,s00011
+hlp17umm01448_04434,2dfq,s00014
+
+==== Working on - hlp17umm01449_04435 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01449_04435/raw ===
+
+hlp17umm01449_04435,t1,s00003
+hlp17umm01449_04435,t2flair,s00004
+hlp17umm01449_04435,t2sag,s00012
+hlp17umm01449_04435,swi_B1,s00009
+hlp17umm01449_04435,swi_B2,s00010
+hlp17umm01449_04435,swi_B3,s00011
+hlp17umm01449_04435,2dfq,s00014
+
+==== Working on - hlp17umm01440_04472 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01440_04472/raw ===
+
+hlp17umm01440_04472,t1,s00003
+hlp17umm01440_04472,t2flair,s00004
+hlp17umm01440_04472,t2sag,s00012
+hlp17umm01440_04472,swi_B1,s00009
+hlp17umm01440_04472,swi_B2,s00010
+hlp17umm01440_04472,swi_B3,s00011
+hlp17umm01440_04472,2dfq,s00014
+
+==== Working on - hlp17umm01447_04475 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01447_04475/raw ===
+
+hlp17umm01447_04475,t1,s00003
+hlp17umm01447_04475,t2flair,s00004
+hlp17umm01447_04475,t2sag,s00012
+hlp17umm01447_04475,swi_B1,s00009
+hlp17umm01447_04475,swi_B2,s00010
+hlp17umm01447_04475,swi_B3,s00011
+hlp17umm01447_04475,2dfq,s00014
+
+==== Working on - hlp17umm01446_04476 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01446_04476/raw ===
+
+hlp17umm01446_04476,t1,s00003
+hlp17umm01446_04476,t2flair,s00004
+hlp17umm01446_04476,t2sag,s00012
+hlp17umm01446_04476,swi_B1,s00009
+hlp17umm01446_04476,swi_B2,s00010
+hlp17umm01446_04476,swi_B3,s00011
+hlp17umm01446_04476,2dfq,s00014
+
+==== Working on - hlp17umm01462_04510 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01462_04510/raw ===
+
+hlp17umm01462_04510,t1,s00003
+hlp17umm01462_04510,t2flair,s00004
+hlp17umm01462_04510,t2sag,s00012
+hlp17umm01462_04510,swi_B1,s00009
+hlp17umm01462_04510,swi_B2,s00010
+hlp17umm01462_04510,swi_B3,s00011
+hlp17umm01462_04510,2dfq,s00014
+
+==== Working on - hlp17umm01458_04524 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01458_04524/raw ===
+
+hlp17umm01458_04524,t1,s00003
+hlp17umm01458_04524,t2flair,s00004
+hlp17umm01458_04524,t2sag,s00012
+hlp17umm01458_04524,swi_B1,s00009
+hlp17umm01458_04524,swi_B2,s00010
+hlp17umm01458_04524,swi_B3,s00011
+hlp17umm01458_04524,2dfq,s00014
+
+==== Working on - hlp17umm01445_04561 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01445_04561/raw ===
+
+hlp17umm01445_04561,t1,s00003
+hlp17umm01445_04561,t2flair,s00004
+hlp17umm01445_04561,t2sag,s00012
+hlp17umm01445_04561,swi_B1,s00009
+hlp17umm01445_04561,swi_B2,s00010
+hlp17umm01445_04561,swi_B3,s00011
+hlp17umm01445_04561,2dfq,s00016
+s00015
+
+==== Working on - hlp17umm01457_04562 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01457_04562/raw ===
+
+hlp17umm01457_04562,t1,s00003
+hlp17umm01457_04562,t2flair,s00004
+hlp17umm01457_04562,t2sag,s00012
+hlp17umm01457_04562,swi_B1,s00009
+hlp17umm01457_04562,swi_B2,s00010
+hlp17umm01457_04562,swi_B3,s00011
+hlp17umm01457_04562,2dfq,s00014
+
+==== Working on - hlp17umm01453_04575 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01453_04575/raw ===
+
+hlp17umm01453_04575,t1,s00003
+hlp17umm01453_04575,t2flair,s00004
+hlp17umm01453_04575,t2sag,s00012
+hlp17umm01453_04575,swi_B1,s00009
+hlp17umm01453_04575,swi_B2,s00010
+hlp17umm01453_04575,swi_B3,s00011
+hlp17umm01453_04575,2dfq,s00014
+
+==== Working on - hlp17umm01442_04576 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01442_04576/raw ===
+
+hlp17umm01442_04576,t1,s00003
+hlp17umm01442_04576,t2flair,s00004
+hlp17umm01442_04576,t2sag,s00012
+hlp17umm01442_04576,swi_B1,s00009
+hlp17umm01442_04576,swi_B2,s00010
+hlp17umm01442_04576,swi_B3,s00011
+hlp17umm01442_04576,2dfq,s00014
+
+==== Working on - hlp17umm01454_04599 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01454_04599/raw ===
+
+hlp17umm01454_04599,t1,s00003
+hlp17umm01454_04599,t2flair,s00004
+hlp17umm01454_04599,t2sag,s00012
+hlp17umm01454_04599,swi_B1,s00009
+hlp17umm01454_04599,swi_B2,s00010
+hlp17umm01454_04599,swi_B3,s00011
+hlp17umm01454_04599,2dfq,s00014
+
+==== Working on - hlp17umm01439_04600 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01439_04600/raw ===
+
+hlp17umm01439_04600,t1,s00003
+hlp17umm01439_04600,t2flair,s00004
+hlp17umm01439_04600,t2sag,s00012
+hlp17umm01439_04600,swi_B1,s00009
+hlp17umm01439_04600,swi_B2,s00010
+hlp17umm01439_04600,swi_B3,s00011
+hlp17umm01439_04600,2dfq,s00014
+
+==== Working on - hlp17umm01482_04642 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01482_04642/raw ===
+
+hlp17umm01482_04642,t1,s00003
+hlp17umm01482_04642,t2flair,s00004
+hlp17umm01482_04642,t2sag,s00012
+hlp17umm01482_04642,swi_B1,s00009
+hlp17umm01482_04642,swi_B2,s00010
+hlp17umm01482_04642,swi_B3,s00011
+hlp17umm01482_04642,2dfq,s00014
+
+==== Working on - hlp17umm01479_04643 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01479_04643/raw ===
+
+hlp17umm01479_04643,t1,s00003
+hlp17umm01479_04643,t2flair,s00004
+hlp17umm01479_04643,t2sag,s00012
+hlp17umm01479_04643,swi_B1,s00009
+hlp17umm01479_04643,swi_B2,s00010
+hlp17umm01479_04643,swi_B3,s00011
+hlp17umm01479_04643,2dfq,s00014
+
+==== Working on - hlp17umm01459_04651 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01459_04651/raw ===
+
+hlp17umm01459_04651,t1,s00003
+hlp17umm01459_04651,t2flair,s00004
+hlp17umm01459_04651,t2sag,s00012
+hlp17umm01459_04651,swi_B1,s00009
+hlp17umm01459_04651,swi_B2,s00010
+hlp17umm01459_04651,swi_B3,s00011
+hlp17umm01459_04651,2dfq,s00014
+
+==== Working on - hlp17umm01487_04682 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01487_04682/raw ===
+
+hlp17umm01487_04682,t1,s00003
+hlp17umm01487_04682,t2flair,s00004
+hlp17umm01487_04682,t2sag,s00012
+hlp17umm01487_04682,swi_B1,s00009
+hlp17umm01487_04682,swi_B2,s00010
+hlp17umm01487_04682,swi_B3,s00011
+hlp17umm01487_04682,2dfq,s00014
+
+==== Working on - hlp17umm01143_04683 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01143_04683/raw ===
+
+hlp17umm01143_04683,t1,s00003
+hlp17umm01143_04683,t2flair,s00004
+hlp17umm01143_04683,t2sag,s00010
+hlp17umm01143_04683,swi_B1,s00007
+hlp17umm01143_04683,swi_B2,s00008
+hlp17umm01143_04683,swi_B3,s00009
+hlp17umm01143_04683,2dfq,s00011
+
+==== Working on - hlp17umm01480_04688 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01480_04688/raw ===
+
+hlp17umm01480_04688,t1,s00003
+hlp17umm01480_04688,t2flair,s00004
+hlp17umm01480_04688,t2sag,s00012
+hlp17umm01480_04688,swi_B1,s00009
+hlp17umm01480_04688,swi_B2,s00010
+hlp17umm01480_04688,swi_B3,s00011
+hlp17umm01480_04688,2dfq,s00014
+
+==== Working on - hlp17umm01340_04689 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01340_04689/raw ===
+
+hlp17umm01340_04689,t1,s00003
+hlp17umm01340_04689,t2flair,s00004
+hlp17umm01340_04689,t2sag,s00012
+hlp17umm01340_04689,swi_B1,s00009
+hlp17umm01340_04689,swi_B2,s00010
+hlp17umm01340_04689,swi_B3,s00011
+hlp17umm01340_04689,2dfq,s00014
+
+==== Working on - hlp17umm01493_04746 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01493_04746/raw ===
+
+hlp17umm01493_04746,t1,s00003
+hlp17umm01493_04746,t2flair,s00004
+hlp17umm01493_04746,t2sag,s00012
+hlp17umm01493_04746,swi_B1,s00009
+hlp17umm01493_04746,swi_B2,s00010
+hlp17umm01493_04746,swi_B3,s00011
+hlp17umm01493_04746,2dfq,s00014
+
+==== Working on - hlp17umm01444_04770 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01444_04770/raw ===
+
+hlp17umm01444_04770,t1,s00003
+hlp17umm01444_04770,t2flair,s00004
+hlp17umm01444_04770,t2sag,s00012
+hlp17umm01444_04770,swi_B1,s00009
+hlp17umm01444_04770,swi_B2,s00010
+hlp17umm01444_04770,swi_B3,s00011
+hlp17umm01444_04770,2dfq,s00014
+
+==== Working on - hlp17umm01227_04771 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01227_04771/raw ===
+
+hlp17umm01227_04771,t1,s00003
+hlp17umm01227_04771,t2flair,s00004
+hlp17umm01227_04771,t2sag,
+hlp17umm01227_04771,swi_B1,s00009
+hlp17umm01227_04771,swi_B2,
+hlp17umm01227_04771,swi_B3,
+hlp17umm01227_04771,2dfq,
+
+==== Working on - hlp17umm00960_04783 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm00960_04783/raw ===
+
+hlp17umm00960_04783,t1,s00003
+hlp17umm00960_04783,t2flair,s00004
+hlp17umm00960_04783,t2sag,s00012
+hlp17umm00960_04783,swi_B1,s00009
+hlp17umm00960_04783,swi_B2,s00010
+hlp17umm00960_04783,swi_B3,s00011
+hlp17umm00960_04783,2dfq,s00014
+
+==== Working on - hlp17umm01473_04784 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01473_04784/raw ===
+
+hlp17umm01473_04784,t1,s00003
+hlp17umm01473_04784,t2flair,s00004
+hlp17umm01473_04784,t2sag,s00012
+hlp17umm01473_04784,swi_B1,s00009
+hlp17umm01473_04784,swi_B2,s00010
+hlp17umm01473_04784,swi_B3,s00011
+hlp17umm01473_04784,2dfq,s00014
+
+==== Working on - hlp17umm01461_04825 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01461_04825/raw ===
+
+hlp17umm01461_04825,t1,s00003
+hlp17umm01461_04825,t2flair,s00004
+hlp17umm01461_04825,t2sag,s00012
+hlp17umm01461_04825,swi_B1,s00009
+hlp17umm01461_04825,swi_B2,s00010
+hlp17umm01461_04825,swi_B3,s00011
+hlp17umm01461_04825,2dfq,s00014
+
+==== Working on - hlp17umm01463_04826 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01463_04826/raw ===
+
+hlp17umm01463_04826,t1,s00003
+hlp17umm01463_04826,t2flair,s00004
+hlp17umm01463_04826,t2sag,s00012
+hlp17umm01463_04826,swi_B1,s00009
+hlp17umm01463_04826,swi_B2,s00010
+hlp17umm01463_04826,swi_B3,s00011
+hlp17umm01463_04826,2dfq,s00014
+
+==== Working on - hlp17umm01419_04879 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01419_04879/raw ===
+
+hlp17umm01419_04879,t1,s00003
+hlp17umm01419_04879,t2flair,s00004
+hlp17umm01419_04879,t2sag,s00012
+hlp17umm01419_04879,swi_B1,s00009
+hlp17umm01419_04879,swi_B2,s00010
+hlp17umm01419_04879,swi_B3,s00011
+hlp17umm01419_04879,2dfq,s00014
+
+==== Working on - hlp17umm01378_04880 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01378_04880/raw ===
+
+hlp17umm01378_04880,t1,s00003
+hlp17umm01378_04880,t2flair,s00004
+hlp17umm01378_04880,t2sag,s00012
+hlp17umm01378_04880,swi_B1,s00009
+hlp17umm01378_04880,swi_B2,s00010
+hlp17umm01378_04880,swi_B3,s00011
+hlp17umm01378_04880,2dfq,s00014
+
+==== Working on - hlp17umm01501_04922 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01501_04922/raw ===
+
+hlp17umm01501_04922,t1,s00003
+hlp17umm01501_04922,t2flair,s00004
+hlp17umm01501_04922,t2sag,s00010
+hlp17umm01501_04922,swi_B1,s00007
+hlp17umm01501_04922,swi_B2,s00008
+hlp17umm01501_04922,swi_B3,s00009
+hlp17umm01501_04922,2dfq,s00012
+
+==== Working on - hlp17umm01484_04923 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01484_04923/raw ===
+
+hlp17umm01484_04923,t1,s00003
+hlp17umm01484_04923,t2flair,s00004
+hlp17umm01484_04923,t2sag,s00012
+hlp17umm01484_04923,swi_B1,s00009
+hlp17umm01484_04923,swi_B2,s00010
+hlp17umm01484_04923,swi_B3,s00011
+hlp17umm01484_04923,2dfq,s00014
+
+==== Working on - hlp17umm01507_04963 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01507_04963/raw ===
+
+hlp17umm01507_04963,t1,s00003
+hlp17umm01507_04963,t2flair,s00004
+hlp17umm01507_04963,t2sag,s00012
+hlp17umm01507_04963,swi_B1,s00009
+hlp17umm01507_04963,swi_B2,s00010
+hlp17umm01507_04963,swi_B3,s00011
+hlp17umm01507_04963,2dfq,s00014
+
+==== Working on - hlp17umm01489_04964 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01489_04964/raw ===
+
+hlp17umm01489_04964,t1,s00003
+hlp17umm01489_04964,t2flair,s00004
+hlp17umm01489_04964,t2sag,s00012
+hlp17umm01489_04964,swi_B1,s00009
+hlp17umm01489_04964,swi_B2,s00010
+hlp17umm01489_04964,swi_B3,s00011
+hlp17umm01489_04964,2dfq,s00014
+
+==== Working on - hlp17umm01432_04976 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01432_04976/raw ===
+
+hlp17umm01432_04976,t1,s00003
+hlp17umm01432_04976,t2flair,s00004
+hlp17umm01432_04976,t2sag,
+hlp17umm01432_04976,swi_B1,
+hlp17umm01432_04976,swi_B2,
+hlp17umm01432_04976,swi_B3,
+hlp17umm01432_04976,2dfq,
+
+==== Working on - hlp17umm01411_04977 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01411_04977/raw ===
+
+hlp17umm01411_04977,t1,s00003
+hlp17umm01411_04977,t2flair,s00004
+hlp17umm01411_04977,t2sag,s00013
+hlp17umm01411_04977,swi_B1,s00009
+hlp17umm01411_04977,swi_B2,s00010
+hlp17umm01411_04977,swi_B3,s00011
+hlp17umm01411_04977,2dfq,s00014
+
+==== Working on - hlp17umm01494_05012 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01494_05012/raw ===
+
+hlp17umm01494_05012,t1,s00003
+hlp17umm01494_05012,t2flair,s00004
+hlp17umm01494_05012,t2sag,s00012
+hlp17umm01494_05012,swi_B1,s00009
+hlp17umm01494_05012,swi_B2,s00010
+hlp17umm01494_05012,swi_B3,s00011
+hlp17umm01494_05012,2dfq,s00014
+
+==== Working on - hlp17umm01508_05049 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01508_05049/raw ===
+
+hlp17umm01508_05049,t1,s00003
+hlp17umm01508_05049,t2flair,s00004
+hlp17umm01508_05049,t2sag,s00012
+hlp17umm01508_05049,swi_B1,s00009
+hlp17umm01508_05049,swi_B2,s00010
+hlp17umm01508_05049,swi_B3,s00011
+hlp17umm01508_05049,2dfq,s00014
+
+==== Working on - hlp17umm01371_05133 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01371_05133/raw ===
+
+hlp17umm01371_05133,t1,s00003
+hlp17umm01371_05133,t2flair,s00004
+hlp17umm01371_05133,t2sag,s00010
+hlp17umm01371_05133,swi_B1,s00007
+hlp17umm01371_05133,swi_B2,s00008
+hlp17umm01371_05133,swi_B3,s00009
+hlp17umm01371_05133,2dfq,s00012
+
+==== Working on - hlp17umm01246_05153 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01246_05153/raw ===
+
+hlp17umm01246_05153,t1,s00003
+hlp17umm01246_05153,t2flair,s00004
+hlp17umm01246_05153,t2sag,s00010
+hlp17umm01246_05153,swi_B1,s00007
+hlp17umm01246_05153,swi_B2,s00008
+hlp17umm01246_05153,swi_B3,s00009
+hlp17umm01246_05153,2dfq,s00012
+
+==== Working on - hlp17umm01539_05154 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01539_05154/raw ===
+
+hlp17umm01539_05154,t1,s00003
+hlp17umm01539_05154,t2flair,s00004
+hlp17umm01539_05154,t2sag,s00010
+hlp17umm01539_05154,swi_B1,s00007
+hlp17umm01539_05154,swi_B2,s00008
+hlp17umm01539_05154,swi_B3,s00009
+hlp17umm01539_05154,2dfq,s00012
+
+==== Working on - hlp17umm01531_05159 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01531_05159/raw ===
+
+hlp17umm01531_05159,t1,s00003
+hlp17umm01531_05159,t2flair,s00004
+hlp17umm01531_05159,t2sag,s00010
+hlp17umm01531_05159,swi_B1,s00007
+hlp17umm01531_05159,swi_B2,s00008
+hlp17umm01531_05159,swi_B3,s00009
+hlp17umm01531_05159,2dfq,s00012
+
+==== Working on - hlp17umm01532_05160 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01532_05160/raw ===
+
+hlp17umm01532_05160,t1,s00003
+hlp17umm01532_05160,t2flair,s00004
+hlp17umm01532_05160,t2sag,s00010
+hlp17umm01532_05160,swi_B1,s00007
+hlp17umm01532_05160,swi_B2,s00008
+hlp17umm01532_05160,swi_B3,s00009
+hlp17umm01532_05160,2dfq,s00012
+
+==== Working on - hlp17umm01543_05181 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01543_05181/raw ===
+
+hlp17umm01543_05181,t1,s00003
+hlp17umm01543_05181,t2flair,s00004
+hlp17umm01543_05181,t2sag,s00010
+hlp17umm01543_05181,swi_B1,s00007
+hlp17umm01543_05181,swi_B2,s00008
+hlp17umm01543_05181,swi_B3,s00009
+hlp17umm01543_05181,2dfq,s00012
+
+==== Working on - hlp17umm01492_05182 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01492_05182/raw ===
+
+hlp17umm01492_05182,t1,s00003
+hlp17umm01492_05182,t2flair,s00004
+hlp17umm01492_05182,t2sag,s00010
+hlp17umm01492_05182,swi_B1,s00007
+hlp17umm01492_05182,swi_B2,s00008
+hlp17umm01492_05182,swi_B3,s00009
+hlp17umm01492_05182,2dfq,s00012
+
+==== Working on - hlp17umm01252_05187 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01252_05187/raw ===
+
+hlp17umm01252_05187,t1,s00003
+hlp17umm01252_05187,t2flair,s00004
+hlp17umm01252_05187,t2sag,s00010
+hlp17umm01252_05187,swi_B1,s00007
+hlp17umm01252_05187,swi_B2,s00008
+hlp17umm01252_05187,swi_B3,s00009
+hlp17umm01252_05187,2dfq,s00012
+
+==== Working on - hlp17umm01500_05193 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01500_05193/raw ===
+
+hlp17umm01500_05193,t1,s00003
+hlp17umm01500_05193,t2flair,s00004
+hlp17umm01500_05193,t2sag,s00010
+hlp17umm01500_05193,swi_B1,s00007
+hlp17umm01500_05193,swi_B2,s00008
+hlp17umm01500_05193,swi_B3,s00009
+hlp17umm01500_05193,2dfq,s00012
+
+==== Working on - hlp17umm01348_05194 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01348_05194/raw ===
+
+hlp17umm01348_05194,t1,s00003
+hlp17umm01348_05194,t2flair,s00004
+hlp17umm01348_05194,t2sag,s00010
+hlp17umm01348_05194,swi_B1,s00007
+hlp17umm01348_05194,swi_B2,s00008
+hlp17umm01348_05194,swi_B3,s00009
+hlp17umm01348_05194,2dfq,s00014
+
+==== Working on - hlp17umm01483_05200 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01483_05200/raw ===
+
+hlp17umm01483_05200,t1,s00003
+hlp17umm01483_05200,t2flair,s00004
+hlp17umm01483_05200,t2sag,s00010
+hlp17umm01483_05200,swi_B1,s00007
+hlp17umm01483_05200,swi_B2,s00008
+hlp17umm01483_05200,swi_B3,s00009
+hlp17umm01483_05200,2dfq,s00012
+
+==== Working on - hlp17umm01549_05224 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01549_05224/raw ===
+
+hlp17umm01549_05224,t1,s00003
+hlp17umm01549_05224,t2flair,s00004
+hlp17umm01549_05224,t2sag,s00010
+hlp17umm01549_05224,swi_B1,s00007
+hlp17umm01549_05224,swi_B2,s00008
+hlp17umm01549_05224,swi_B3,s00009
+hlp17umm01549_05224,2dfq,s00012
+
+==== Working on - hlp17umm01299_05225 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01299_05225/raw ===
+
+hlp17umm01299_05225,t1,s00003
+hlp17umm01299_05225,t2flair,s00004
+hlp17umm01299_05225,t2sag,s00010
+hlp17umm01299_05225,swi_B1,s00007
+hlp17umm01299_05225,swi_B2,s00008
+hlp17umm01299_05225,swi_B3,s00009
+hlp17umm01299_05225,2dfq,s00012
+
+==== Working on - hlp17umm01519_05232 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01519_05232/raw ===
+
+hlp17umm01519_05232,t1,s00003
+hlp17umm01519_05232,t2flair,s00004
+hlp17umm01519_05232,t2sag,s00010
+hlp17umm01519_05232,swi_B1,s00007
+hlp17umm01519_05232,swi_B2,s00008
+hlp17umm01519_05232,swi_B3,s00009
+hlp17umm01519_05232,2dfq,s00012
+
+==== Working on - hlp17umm01537_05308 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01537_05308/raw ===
+
+hlp17umm01537_05308,t1,s00003
+hlp17umm01537_05308,t2flair,s00004
+hlp17umm01537_05308,t2sag,s00010
+hlp17umm01537_05308,swi_B1,s00007
+hlp17umm01537_05308,swi_B2,s00008
+hlp17umm01537_05308,swi_B3,s00009
+hlp17umm01537_05308,2dfq,s00012
+
+==== Working on - hlp17umm01510_05309 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01510_05309/raw ===
+
+hlp17umm01510_05309,t1,s00003
+hlp17umm01510_05309,t2flair,
+hlp17umm01510_05309,t2sag,
+hlp17umm01510_05309,swi_B1,
+hlp17umm01510_05309,swi_B2,
+hlp17umm01510_05309,swi_B3,
+hlp17umm01510_05309,2dfq,
+
+==== Working on - hlp17umm01373_05314 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01373_05314/raw ===
+
+hlp17umm01373_05314,t1,s00003
+hlp17umm01373_05314,t2flair,s00004
+hlp17umm01373_05314,t2sag,s00010
+hlp17umm01373_05314,swi_B1,s00007
+hlp17umm01373_05314,swi_B2,s00008
+hlp17umm01373_05314,swi_B3,s00009
+hlp17umm01373_05314,2dfq,s00012
+
+==== Working on - hlp17umm01513_05315 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01513_05315/raw ===
+
+hlp17umm01513_05315,t1,s00003
+hlp17umm01513_05315,t2flair,s00004
+hlp17umm01513_05315,t2sag,s00010
+hlp17umm01513_05315,swi_B1,s00007
+hlp17umm01513_05315,swi_B2,s00008
+hlp17umm01513_05315,swi_B3,s00009
+hlp17umm01513_05315,2dfq,s00012
+
+==== Working on - hlp17umm01384_05358 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01384_05358/raw ===
+
+hlp17umm01384_05358,t1,s00003
+hlp17umm01384_05358,t2flair,s00004
+hlp17umm01384_05358,t2sag,s00010
+hlp17umm01384_05358,swi_B1,s00007
+hlp17umm01384_05358,swi_B2,s00008
+hlp17umm01384_05358,swi_B3,s00009
+hlp17umm01384_05358,2dfq,s00012
+
+==== Working on - hlp17umm01435_05392 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01435_05392/raw ===
+
+hlp17umm01435_05392,t1,s00003
+hlp17umm01435_05392,t2flair,s00004
+hlp17umm01435_05392,t2sag,s00010
+hlp17umm01435_05392,swi_B1,s00007
+hlp17umm01435_05392,swi_B2,s00008
+hlp17umm01435_05392,swi_B3,s00009
+hlp17umm01435_05392,2dfq,s00012
+
+==== Working on - hlp17umm01511_05424 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01511_05424/raw ===
+
+hlp17umm01511_05424,t1,s00003
+hlp17umm01511_05424,t2flair,s00004
+hlp17umm01511_05424,t2sag,s00010
+hlp17umm01511_05424,swi_B1,s00007
+hlp17umm01511_05424,swi_B2,s00008
+hlp17umm01511_05424,swi_B3,s00009
+hlp17umm01511_05424,2dfq,s00012
+
+==== Working on - hlp17umm01555_05471 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01555_05471/raw ===
+
+hlp17umm01555_05471,t1,s00003
+hlp17umm01555_05471,t2flair,s00004
+hlp17umm01555_05471,t2sag,s00010
+hlp17umm01555_05471,swi_B1,s00007
+hlp17umm01555_05471,swi_B2,s00008
+hlp17umm01555_05471,swi_B3,s00009
+hlp17umm01555_05471,2dfq,s00012
+
+==== Working on - hlp17umm01556_05503 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01556_05503/raw ===
+
+hlp17umm01556_05503,t1,s00003
+hlp17umm01556_05503,t2flair,s00004
+hlp17umm01556_05503,t2sag,s00011
+hlp17umm01556_05503,swi_B1,s00007
+hlp17umm01556_05503,swi_B2,s00008
+s00009
+hlp17umm01556_05503,swi_B3,s00010
+hlp17umm01556_05503,2dfq,
+
+==== Working on - hlp17umm01182_05506 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01182_05506/raw ===
+
+hlp17umm01182_05506,t1,s00003
+hlp17umm01182_05506,t2flair,s00004
+hlp17umm01182_05506,t2sag,s00010
+hlp17umm01182_05506,swi_B1,s00007
+hlp17umm01182_05506,swi_B2,s00008
+hlp17umm01182_05506,swi_B3,s00009
+hlp17umm01182_05506,2dfq,
+
+==== Working on - hlp17umm01350_05521 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01350_05521/raw ===
+
+hlp17umm01350_05521,t1,s00004
+hlp17umm01350_05521,t2flair,s00005
+hlp17umm01350_05521,t2sag,s00011
+hlp17umm01350_05521,swi_B1,s00008
+hlp17umm01350_05521,swi_B2,s00009
+hlp17umm01350_05521,swi_B3,s00010
+hlp17umm01350_05521,2dfq,s00013
+
+==== Working on - hlp17umm01565_05522 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01565_05522/raw ===
+
+hlp17umm01565_05522,t1,s00003
+hlp17umm01565_05522,t2flair,s00004
+hlp17umm01565_05522,t2sag,s00010
+hlp17umm01565_05522,swi_B1,s00007
+hlp17umm01565_05522,swi_B2,s00008
+hlp17umm01565_05522,swi_B3,s00009
+hlp17umm01565_05522,2dfq,s00012
+
+==== Working on - hlp17umm01544_05549 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01544_05549/raw ===
+
+hlp17umm01544_05549,t1,s00003
+hlp17umm01544_05549,t2flair,s00004
+hlp17umm01544_05549,t2sag,s00010
+hlp17umm01544_05549,swi_B1,s00007
+hlp17umm01544_05549,swi_B2,s00008
+hlp17umm01544_05549,swi_B3,s00009
+hlp17umm01544_05549,2dfq,s00012
+
+==== Working on - hlp17umm01545_05550 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01545_05550/raw ===
+
+hlp17umm01545_05550,t1,s00003
+hlp17umm01545_05550,t2flair,s00004
+hlp17umm01545_05550,t2sag,s00010
+hlp17umm01545_05550,swi_B1,s00007
+hlp17umm01545_05550,swi_B2,s00008
+hlp17umm01545_05550,swi_B3,s00009
+hlp17umm01545_05550,2dfq,s00012
+
+==== Working on - hlp17umm01387_05556 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01387_05556/raw ===
+
+hlp17umm01387_05556,t1,s00003
+hlp17umm01387_05556,t2flair,s00004
+hlp17umm01387_05556,t2sag,s00007
+hlp17umm01387_05556,swi_B1,
+hlp17umm01387_05556,swi_B2,
+hlp17umm01387_05556,swi_B3,
+hlp17umm01387_05556,2dfq,s00009
+
+==== Working on - hlp17umm01476_05633 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01476_05633/raw ===
+
+hlp17umm01476_05633,t1,s00003
+hlp17umm01476_05633,t2flair,s00004
+hlp17umm01476_05633,t2sag,s00010
+hlp17umm01476_05633,swi_B1,s00007
+hlp17umm01476_05633,swi_B2,s00008
+hlp17umm01476_05633,swi_B3,s00009
+hlp17umm01476_05633,2dfq,
+
+==== Working on - hlp17umm01477_05634 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01477_05634/raw ===
+
+hlp17umm01477_05634,t1,s00003
+s00003
+hlp17umm01477_05634,t2flair,s00004
+s00004
+hlp17umm01477_05634,t2sag,
+hlp17umm01477_05634,swi_B1,
+hlp17umm01477_05634,swi_B2,
+hlp17umm01477_05634,swi_B3,
+hlp17umm01477_05634,2dfq,
+
+==== Working on - hlp17umm01477_05635 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01477_05635/raw ===
+
+hlp17umm01477_05635,t1,
+hlp17umm01477_05635,t2flair,
+hlp17umm01477_05635,t2sag,s00006
+hlp17umm01477_05635,swi_B1,s00003
+hlp17umm01477_05635,swi_B2,s00004
+hlp17umm01477_05635,swi_B3,s00005
+hlp17umm01477_05635,2dfq,s00008
+
+==== Working on - hlp17umm01416_05640 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01416_05640/raw ===
+
+hlp17umm01416_05640,t1,s00003
+hlp17umm01416_05640,t2flair,s00004
+hlp17umm01416_05640,t2sag,s00010
+hlp17umm01416_05640,swi_B1,s00007
+hlp17umm01416_05640,swi_B2,s00008
+hlp17umm01416_05640,swi_B3,s00009
+hlp17umm01416_05640,2dfq,s00012
+
+==== Working on - hlp17umm01417_05641 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01417_05641/raw ===
+
+hlp17umm01417_05641,t1,s00005
+hlp17umm01417_05641,t2flair,s00006
+hlp17umm01417_05641,t2sag,s00012
+hlp17umm01417_05641,swi_B1,s00009
+hlp17umm01417_05641,swi_B2,s00010
+hlp17umm01417_05641,swi_B3,s00011
+hlp17umm01417_05641,2dfq,s00014
+
+==== Working on - hlp17umm01561_05696 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01561_05696/raw ===
+
+hlp17umm01561_05696,t1,s00003
+hlp17umm01561_05696,t2flair,s00004
+hlp17umm01561_05696,t2sag,s00010
+hlp17umm01561_05696,swi_B1,s00007
+hlp17umm01561_05696,swi_B2,s00008
+hlp17umm01561_05696,swi_B3,s00009
+hlp17umm01561_05696,2dfq,s00012
+
+==== Working on - hlp17umm01546_05697 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01546_05697/raw ===
+
+hlp17umm01546_05697,t1,
+hlp17umm01546_05697,t2flair,s00004
+hlp17umm01546_05697,t2sag,s00010
+hlp17umm01546_05697,swi_B1,s00007
+hlp17umm01546_05697,swi_B2,s00008
+hlp17umm01546_05697,swi_B3,s00009
+hlp17umm01546_05697,2dfq,s00012
+
+==== Working on - hlp17umm01550_05702 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01550_05702/raw ===
+
+hlp17umm01550_05702,t1,s00003
+hlp17umm01550_05702,t2flair,s00004
+hlp17umm01550_05702,t2sag,s00010
+hlp17umm01550_05702,swi_B1,s00007
+hlp17umm01550_05702,swi_B2,s00008
+hlp17umm01550_05702,swi_B3,s00009
+hlp17umm01550_05702,2dfq,s00012
+
+==== Working on - hlp17umm01530_05703 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01530_05703/raw ===
+
+hlp17umm01530_05703,t1,s00003
+hlp17umm01530_05703,t2flair,s00004
+hlp17umm01530_05703,t2sag,s00010
+hlp17umm01530_05703,swi_B1,s00007
+hlp17umm01530_05703,swi_B2,s00008
+hlp17umm01530_05703,swi_B3,s00009
+hlp17umm01530_05703,2dfq,s00012
+
+==== Working on - hlp17umm01040_05745 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01040_05745/raw ===
+
+hlp17umm01040_05745,t1,s00003
+hlp17umm01040_05745,t2flair,s00004
+hlp17umm01040_05745,t2sag,s00010
+hlp17umm01040_05745,swi_B1,s00007
+hlp17umm01040_05745,swi_B2,s00008
+hlp17umm01040_05745,swi_B3,s00009
+hlp17umm01040_05745,2dfq,
+
+==== Working on - hlp17umm01575_05746 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01575_05746/raw ===
+
+hlp17umm01575_05746,t1,s00003
+hlp17umm01575_05746,t2flair,s00004
+hlp17umm01575_05746,t2sag,s00010
+hlp17umm01575_05746,swi_B1,s00007
+hlp17umm01575_05746,swi_B2,s00008
+hlp17umm01575_05746,swi_B3,s00009
+hlp17umm01575_05746,2dfq,s00012
+
+==== Working on - hlp17umm01572_05785 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01572_05785/raw ===
+
+hlp17umm01572_05785,t1,s00003
+hlp17umm01572_05785,t2flair,s00004
+hlp17umm01572_05785,t2sag,s00010
+hlp17umm01572_05785,swi_B1,s00007
+hlp17umm01572_05785,swi_B2,s00008
+hlp17umm01572_05785,swi_B3,s00009
+hlp17umm01572_05785,2dfq,s00012
+
+==== Working on - hlp17umm01550_05786 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01550_05786/raw ===
+
+hlp17umm01550_05786,t1,s00003
+hlp17umm01550_05786,t2flair,s00004
+hlp17umm01550_05786,t2sag,s00010
+hlp17umm01550_05786,swi_B1,s00007
+hlp17umm01550_05786,swi_B2,s00008
+hlp17umm01550_05786,swi_B3,s00009
+hlp17umm01550_05786,2dfq,s00012
+
+==== Working on - hlp17umm00798_05794 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm00798_05794/raw ===
+
+hlp17umm00798_05794,t1,s00003
+hlp17umm00798_05794,t2flair,s00004
+hlp17umm00798_05794,t2sag,s00010
+hlp17umm00798_05794,swi_B1,s00007
+hlp17umm00798_05794,swi_B2,s00008
+hlp17umm00798_05794,swi_B3,s00009
+hlp17umm00798_05794,2dfq,s00012
+
+==== Working on - hlp17umm00799_05795 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm00799_05795/raw ===
+
+hlp17umm00799_05795,t1,s00003
+hlp17umm00799_05795,t2flair,s00004
+hlp17umm00799_05795,t2sag,s00010
+hlp17umm00799_05795,swi_B1,s00007
+hlp17umm00799_05795,swi_B2,s00008
+hlp17umm00799_05795,swi_B3,s00009
+hlp17umm00799_05795,2dfq,s00012
+
+==== Working on - hlp17umm01564_05806 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01564_05806/raw ===
+
+hlp17umm01564_05806,t1,s00003
+hlp17umm01564_05806,t2flair,s00004
+hlp17umm01564_05806,t2sag,s00010
+hlp17umm01564_05806,swi_B1,s00007
+hlp17umm01564_05806,swi_B2,s00008
+hlp17umm01564_05806,swi_B3,s00009
+hlp17umm01564_05806,2dfq,s00013
+
+==== Working on - hlp17umm01320_05807 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01320_05807/raw ===
+
+hlp17umm01320_05807,t1,s00003
+hlp17umm01320_05807,t2flair,s00004
+hlp17umm01320_05807,t2sag,s00010
+hlp17umm01320_05807,swi_B1,s00007
+hlp17umm01320_05807,swi_B2,s00008
+hlp17umm01320_05807,swi_B3,s00009
+hlp17umm01320_05807,2dfq,s00012
+
+==== Working on - hlp17umm01595_05847 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01595_05847/raw ===
+
+hlp17umm01595_05847,t1,s00003
+hlp17umm01595_05847,t2flair,s00004
+hlp17umm01595_05847,t2sag,s00010
+hlp17umm01595_05847,swi_B1,s00007
+hlp17umm01595_05847,swi_B2,s00008
+hlp17umm01595_05847,swi_B3,s00009
+hlp17umm01595_05847,2dfq,s00012
+
+==== Working on - hlp17umm01395_05848 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01395_05848/raw ===
+
+hlp17umm01395_05848,t1,s00003
+hlp17umm01395_05848,t2flair,s00004
+hlp17umm01395_05848,t2sag,s00010
+hlp17umm01395_05848,swi_B1,s00007
+hlp17umm01395_05848,swi_B2,s00009
+hlp17umm01395_05848,swi_B3,s00008
+hlp17umm01395_05848,2dfq,s00012
+
+==== Working on - hlp17umm01535_05853 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01535_05853/raw ===
+
+hlp17umm01535_05853,t1,s00003
+hlp17umm01535_05853,t2flair,s00004
+hlp17umm01535_05853,t2sag,s00010
+hlp17umm01535_05853,swi_B1,s00007
+hlp17umm01535_05853,swi_B2,s00008
+hlp17umm01535_05853,swi_B3,s00009
+hlp17umm01535_05853,2dfq,s00012
+
+==== Working on - hlp17umm01307_05883 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01307_05883/raw ===
+
+hlp17umm01307_05883,t1,s00003
+hlp17umm01307_05883,t2flair,s00004
+hlp17umm01307_05883,t2sag,s00010
+hlp17umm01307_05883,swi_B1,s00007
+hlp17umm01307_05883,swi_B2,s00008
+hlp17umm01307_05883,swi_B3,s00009
+hlp17umm01307_05883,2dfq,s00012
+
+==== Working on - hlp17umm01557_05889 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01557_05889/raw ===
+
+hlp17umm01557_05889,t1,s00003
+hlp17umm01557_05889,t2flair,
+hlp17umm01557_05889,t2sag,
+hlp17umm01557_05889,swi_B1,
+hlp17umm01557_05889,swi_B2,
+hlp17umm01557_05889,swi_B3,
+hlp17umm01557_05889,2dfq,
+
+==== Working on - hlp17umm01557_05890 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01557_05890/raw ===
+
+hlp17umm01557_05890,t1,
+hlp17umm01557_05890,t2flair,s00003
+hlp17umm01557_05890,t2sag,s00009
+hlp17umm01557_05890,swi_B1,s00006
+hlp17umm01557_05890,swi_B2,s00007
+hlp17umm01557_05890,swi_B3,s00008
+hlp17umm01557_05890,2dfq,s00011
+
+==== Working on - hlp17umm01588_05891 ====
+=== Path - /nfs/fmri/RAW_nopreprocess/hlp17umm01588_05891/raw ===
+
+hlp17umm01588_05891,t1,s00003
+hlp17umm01588_05891,t2flair,s00004
+hlp17umm01588_05891,t2sag,s00007
+hlp17umm01588_05891,swi_B1,
+hlp17umm01588_05891,swi_B2,
+hlp17umm01588_05891,swi_B3,
+hlp17umm01588_05891,2dfq,s00009
