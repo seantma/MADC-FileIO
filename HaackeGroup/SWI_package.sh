@@ -17,6 +17,11 @@ echo
 # 0. key file to operate on
 keyfile=raw_data_cross_reference.dat
 
+# check if key file exist or not
+if [ ! -f ${keyfile} ]; then
+    echo "${SUBJ},rawdata file not found!"
+fi
+
 # subject id extraction
 subjid=$(awk '/t1/ {print $2}' ${keyfile})
 
@@ -39,7 +44,7 @@ do
   # use `awk` to directly match pattern and edit
   target=$(awk '/'${mod}'/ {print $1}' ${keyfile})
   # echo out
-  echo "${subjid},${mod},${target}"
+  echo "${SUBJ},${mod},${target}"
   # tar it
 done
 
