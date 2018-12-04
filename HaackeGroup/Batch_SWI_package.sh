@@ -4,7 +4,7 @@
 # inspired by fmri Lab - batch_ummap_fm.sh
 #
 HOME_DIR=${PWD}
-NPAR=1
+NPAR=8
 
 # change to path where md5sum files are located
 # excluding PCN & ScannerSoftwareUpdate_NOTE folders
@@ -18,4 +18,4 @@ SUBJ_FILE=$(ls -d {bmh**,hlp**} | grep -v 'PCN' | grep -v 'NOTE' | sort -t_ -k2 
 
 # masked out `--max-args=1` `--max-procs=$NPAR` for OSX
 # cd /Users/tehsheng/Projects/fmri-tools/fMRI-Lab_Blueray_script
-echo $SUBJ_FILE | xargs -n1 -P $NPAR ${HOME_DIR}/SWI_package.sh 2>&1 | tee UMMAP_SWI_Dicom_List_135_$(date +"%Y%m%d").txt
+echo $SUBJ_FILE | xargs -n1 -P $NPAR ${HOME_DIR}/SWI_package.sh 2>&1 | tee UMMAP_SWI_DicomTar_List_135_$(date +"%Y%m%d").txt
