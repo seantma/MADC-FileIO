@@ -51,10 +51,10 @@ do
   echo "${SUBJ},${mod},${targetS}"
 
   # tar it with append; replacing dicom s folders into actual modality
-  # tar --append -vf ${tarfolder}/${SUBJ}.tar --totals \
-  # --transform='flags=r;s/'${targetS}'/'${mod}'/' \
-  # ../dicom/${targetS}/* \
-  # 2>&1 | tee ${tarfolder}/Log_${SUBJ}_$(date +"%Y%m%d").txt
+  tar --append -vf ${tarfolder}/${SUBJ}.tar --totals \
+  --transform='flags=r;s/'${targetS}'/'${mod}'/' \
+  ../dicom/${targetS}/* \
+  2>&1 | tee ${tarfolder}/Log_${SUBJ}_$(date +"%Y%m%d").txt
 done
 
 # change back to root directory
