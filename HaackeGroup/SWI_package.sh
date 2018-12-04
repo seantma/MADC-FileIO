@@ -3,10 +3,33 @@
 # Sean Ma
 # 12/4/2018
 
-# 1. read `raw_data_cross_reference.dat`
+# 0. key file to operate on
+keyfile=raw_data_cross_reference.dat
 
-# 2. grep an array of key modalities {t1, t2flair, t2sag, swi_B1, swi_B2, swi_B3, 2dfq}
+# subject id extraction
+subjid=$(awk '/t1/ {print $2}' ${keyfile})
 
-# 3. echo subject and echo status of modality
+# 1. key modalities to grep
+modality=(
+t1
+t2flair
+t2sag
+swi_B1
+swi_B2
+swi_B3
+2dfq
+)
 
- 
+# 2. grep key modalities from `raw_data_cross_reference.dat`
+# print message for NO MATCHES: https://stackoverflow.com/questions/26371440
+# grep 'swi_B0' raw_data_cross_reference.dat || echo "no_match" | awk -F" " '{print $1}'
+for mod in ${modality[@]}
+do
+  # use `awk` to directly match pattern and edit
+  target=$(awk '/'${mod}'/ {print $1}' ${keyfile})
+  # echo out
+  echo "${subjid},${mod},${target}" 
+  # tar it
+done
+
+# 3. echo append subject ID and status of modality
