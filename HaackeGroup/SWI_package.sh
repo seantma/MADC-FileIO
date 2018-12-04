@@ -49,7 +49,7 @@ do
   # echo out
   echo "${SUBJ},${mod},${targetS}"
   # tar it with append; replacing dicom s folders into actual modality
-  tar --append -cvf ${tarfolder}/${SUBJ}.tar --totals ../dicom/${targetS}/* \
+  tar --append -vf ${tarfolder}/${SUBJ}.tar --totals ../dicom/${targetS}/* \
   # --transform='flags=r;s/'${targetS}'/'${mod}'/' \
   # ../dicom/${targetS}/ \
   &> ${tarfolder}/Log_${SUBJ}_$(date +"%Y%m%d").txt
