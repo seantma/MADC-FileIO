@@ -20,6 +20,7 @@ keyfile=raw_data_cross_reference.dat
 # check if key file exist or not
 if [ ! -f ${keyfile} ]; then
     echo "${SUBJ},rawdata file not found!"
+    exit 1;
 fi
 
 # subject id extraction
@@ -42,6 +43,7 @@ swi_B3
 for mod in ${modality[@]}
 do
   # use `awk` to directly match pattern and edit
+  # https://unix.stackexchange.com/questions/46715
   target=$(awk '/'${mod}'/ {print $1}' ${keyfile})
   # echo out
   echo "${SUBJ},${mod},${target}"
