@@ -4,7 +4,7 @@
 # inspired by fmri Lab - batch_ummap_fm.sh
 #
 HOME_DIR=${PWD}
-NPAR=1
+NPAR=5
 
 # change to path where md5sum files are located
 # excluding PCN & ScannerSoftwareUpdate_NOTE folders
