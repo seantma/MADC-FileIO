@@ -5,6 +5,7 @@
 
 # subject root folder
 subjroot=/nfs/fmri/RAW_nopreprocess
+tarfolder=/nfs/fmri/Haacke_Transfer/Final_Batch_Dec2018
 
 # change to current subject folder
 SUBJ=$1
@@ -44,10 +45,14 @@ for mod in ${modality[@]}
 do
   # use `awk` to directly match pattern and edit
   # https://unix.stackexchange.com/questions/46715
-  target=$(awk '/'${mod}'/ {print $1}' ${keyfile})
+  targetS=$(awk '/'${mod}'/ {print $1}' ${keyfile})
   # echo out
-  echo "${SUBJ},${mod},${target}"
-  # tar it
+  echo "${SUBJ},${mod},${targetS}"
+  # tar it with append; replacing dicom s folders into actual modality
+  tar --append -zcvf ${tarfolder}/${SUBJ}.tar.gz --totals \
+  --transform='flags=r;s/'${targetS}'/'${mod}'/' \
+  ../dicom/${mod} \
+  $> ${tarfolder}/Log_${SUBJ}_$(date +"%Y%m%d").txt
 done
 
 # change back to root directory
