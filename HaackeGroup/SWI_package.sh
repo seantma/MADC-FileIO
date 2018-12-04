@@ -3,6 +3,17 @@
 # Sean Ma
 # 12/4/2018
 
+# subject root folder
+subjroot=/nfs/fmri/RAW_nopreprocess
+
+# change to current subject folder
+SUBJ=$1
+cd ${SUBJ}/raw/
+echo
+echo "==== Working on - ${SUBJ} ===="
+echo "=== Path - ${PWD} ==="
+echo
+
 # 0. key file to operate on
 keyfile=raw_data_cross_reference.dat
 
@@ -28,8 +39,9 @@ do
   # use `awk` to directly match pattern and edit
   target=$(awk '/'${mod}'/ {print $1}' ${keyfile})
   # echo out
-  echo "${subjid},${mod},${target}" 
+  echo "${subjid},${mod},${target}"
   # tar it
 done
 
-# 3. echo append subject ID and status of modality
+# change back to root directory
+cd ${subjroot}
