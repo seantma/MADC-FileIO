@@ -9,6 +9,8 @@ tar -zcvf ../Authorization/Auth_$(date +"%Y%m%d").tgz --totals \
 hlp17umm01482_*}/dicom/s000{03/,04/} 2>&1 \
 | tee ../Authorization/Logs/Auth_$(date +"%Y%m%d")_Log.txt
 ```
+#### 1219-2018
+UDS1360_03482 - Sarah Shair requested again 12/17
 
 #### 1113-2018
 UDS1476_05633 - Oliver/Tanisha requested 11/12
